@@ -35,10 +35,6 @@ def csv_preprocess(filename):
     print(a8)
     #path = 'ans.txt'
 
-def main():
-    csv_preprocess('data\An_Se_Young_Ratchanok_Intanon_YONEX_Thailand_Open_2021_QuarterFinals\set1.csv')
-    #csv_preprocess('S2_LabelingTool_new\dist\main_widget\Data\TAI_Tzu_Ying_Akane_YAMAGUCHI_All_England_Open_2018_Finals.mp4\label\set1.csv')
-    #csv_preprocess('Data\CHEN_Yufei_TAI_Tzu_Ying_Malaysia_Masters_2020_Finals.mp4\label\set2.csv')
-
 if __name__ == '__main__':
-    main()
+    csv_preprocess(
+        'data/An_Se_Young_Ratchanok_Intanon_YONEX_Thailand_Open_2021_QuarterFinals/set1.csv')

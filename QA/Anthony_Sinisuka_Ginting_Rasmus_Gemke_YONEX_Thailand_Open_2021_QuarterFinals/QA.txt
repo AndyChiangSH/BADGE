@@ -1,0 +1,55 @@
+YONEX Thailand Open 2021 QuarterFinals: Anthony Sinisuka Ginting v.s. Rasmus Gemke
+
+Set 1:
+Q1: Which player won the game? How many points did the winner get?
+A1: Anthony Sinisuka Ginting won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Rasmus Gemke lost the game with 14 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Anthony Sinisuka Ginting got 9 points because wins by landing.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Rasmus Gemke lost 9 points because opponent wins by landing.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Anthony Sinisuka Ginting got 3 points by rush.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Rasmus Gemke lose 2 points by lob.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Anthony Sinisuka Ginting used lob to overtake the lead at 6:5.
+Q8: How did the winner end the game?
+A8: Anthony Sinisuka Ginting ends the game because opponent fails to clear the net by cross-court net shot.
+
+Set 2:
+Q1: Which player won the game? How many points did the winner get?
+A1: Anthony Sinisuka Ginting won the game with 20 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Rasmus Gemke lost the game with 5 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Anthony Sinisuka Ginting got 7 points because wins by landing.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Rasmus Gemke lost 7 points because opponent wins by landing.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Anthony Sinisuka Ginting got 3 points by rush.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Rasmus Gemke lose 3 points by return net.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Anthony Sinisuka Ginting used net shot to overtake the lead at 2:1.
+Q8: How did the winner end the game?
+A8: Anthony Sinisuka Ginting ends the game because opponent hits the net by smash.
+
+Set 3:
+Q1: Which player won the game? How many points did the winner get?
+A1: Rasmus Gemke won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Anthony Sinisuka Ginting lost the game with 19 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Rasmus Gemke got 6 points because opponent goes out of bounds.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Anthony Sinisuka Ginting lost 6 points because goes out of bounds.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Rasmus Gemke got 2 points by rush.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Anthony Sinisuka Ginting lose 5 points by net shot.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: No, Rasmus Gemke did not come from behind.
+Q8: How did the winner end the game?
+A8: Rasmus Gemke ends the game because wins by landing by smash.

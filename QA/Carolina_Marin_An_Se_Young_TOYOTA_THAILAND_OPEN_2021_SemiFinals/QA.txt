@@ -1,0 +1,37 @@
+TOYOTA THAILAND OPEN 2021 SemiFinals: Carolina Marin v.s. An Se Young
+
+Set 1:
+Q1: Which player won the game? How many points did the winner get?
+A1: Carolina Marin won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: An Se Young lost the game with 19 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Carolina Marin got 9 points because wins by landing.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: An Se Young lost 9 points because opponent wins by landing.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Carolina Marin got 4 points by net shot.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: An Se Young lose 4 points by clear.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Carolina Marin used clear to overtake the lead at 7:6.
+Q8: How did the winner end the game?
+A8: Carolina Marin ends the game because wins by landing by rush.
+
+Set 2:
+Q1: Which player won the game? How many points did the winner get?
+A1: Carolina Marin won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: An Se Young lost the game with 15 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Carolina Marin got 8 points because wins by landing.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: An Se Young lost 8 points because opponent wins by landing.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Carolina Marin got 3 points by smash.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: An Se Young lose 7 points by net shot.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Carolina Marin used net shot to overtake the lead at 6:5.
+Q8: How did the winner end the game?
+A8: Carolina Marin ends the game because wins by landing by rush.

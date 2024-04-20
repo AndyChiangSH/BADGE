@@ -1,0 +1,21 @@
+{
+    "挑球": "lob",
+    "推球": "push",
+    "放小球": "net shot",
+    "擋小球": "return net",
+    "平球": "drive",
+    "小平球": "driven flight",
+    "撲球": "rush",
+    "防守回挑": "defensive return lob",
+    "勾球": "cross-court net shot",
+    "後場抽平球": "back-court drive",
+    "點扣": "wrist smash",
+    "長球": "clear",
+    "殺球": "smash",
+    "防守回抽": "defensive return drive",
+    "過度切球": "passive drop",
+    "切球": "drop",
+    "發短球": "short service",
+    "發長球": "long service",
+    "未知球種": "unknown"
+}
