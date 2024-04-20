@@ -1,0 +1,34 @@
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,wins by landing,push,opponent wins by landing,0,1
+A,opponent hits the net,cross-court net shot,hits the net,1,1
+A,opponent goes out of bounds,clear,goes out of bounds,2,1
+A,opponent fails to clear the net,return net,fails to clear the net,3,1
+A,opponent goes out of bounds,lob,goes out of bounds,4,1
+A,opponent goes out of bounds,clear,goes out of bounds,6,1
+B,opponent hits the net,net shot,hits the net,6,2
+B,opponent hits the net,cross-court net shot,hits the net,6,3
+A,opponent fails to clear the net,return net,fails to clear the net,7,3
+A,wins by landing,smash,opponent wins by landing,8,3
+B,wins by landing,rush,opponent wins by landing,8,4
+A,opponent goes out of bounds,push,goes out of bounds,9,4
+B,opponent goes out of bounds,push,goes out of bounds,9,5
+B,wins by landing,rush,opponent wins by landing,9,6
+B,wins by landing,cross-court net shot,opponent wins by landing,9,7
+A,opponent hits the net,net shot,hits the net,10,7
+B,wins by landing,push,opponent wins by landing,10,8
+B,opponent goes out of bounds,lob,goes out of bounds,10,9
+A,opponent goes out of bounds,lob,goes out of bounds,11,9
+B,opponent goes out of bounds,clear,goes out of bounds,11,10
+A,opponent landing judgment error,push,landing judgment error,12,11
+B,wins by landing,rush,opponent wins by landing,12,12
+A,wins by landing,smash,opponent wins by landing,13,12
+A,opponent goes out of bounds,lob,goes out of bounds,14,12
+A,opponent hits the net,cross-court net shot,hits the net,15,12
+A,wins by landing,smash,opponent wins by landing,16,12
+B,wins by landing,rush,opponent wins by landing,16,13
+A,opponent fails to clear the net,return net,fails to clear the net,17,13
+B,opponent landing judgment error,push,landing judgment error,17,14
+A,wins by landing,smash,opponent wins by landing,18,14
+A,opponent hits the net,smash,hits the net,19,14
+A,wins by landing,smash,opponent wins by landing,20,14
+A,wins by landing,smash,opponent wins by landing,21,14

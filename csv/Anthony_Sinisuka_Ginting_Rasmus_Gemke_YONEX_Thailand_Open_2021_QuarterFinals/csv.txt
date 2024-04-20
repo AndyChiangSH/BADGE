@@ -1,0 +1,108 @@
+YONEX Thailand Open 2021 QuarterFinals: Anthony Sinisuka Ginting v.s. Rasmus Gemke
+
+Set 1:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,opponent goes out of bounds,back-court drive,goes out of bounds,1,0
+A,wins by landing,wrist smash,opponent wins by landing,2,0
+B,wins by landing,wrist smash,opponent wins by landing,2,1
+A,opponent goes out of bounds,net shot,goes out of bounds,3,1
+A,wins by landing,return net,opponent wins by landing,4,1
+B,wins by landing,clear,opponent wins by landing,4,2
+B,wins by landing,lob,opponent wins by landing,4,3
+B,opponent hits the net,push,hits the net,4,5
+A,opponent fails to clear the net,return net,fails to clear the net,5,5
+A,opponent goes out of bounds,lob,goes out of bounds,6,5
+A,wins by landing,smash,opponent wins by landing,7,5
+B,opponent goes out of bounds,clear,goes out of bounds,7,6
+B,opponent hits the net,push,hits the net,7,7
+A,wins by landing,rush,opponent wins by landing,8,7
+A,opponent fails to clear the net,return net,fails to clear the net,9,7
+B,opponent goes out of bounds,wrist smash,goes out of bounds,9,8
+B,opponent fails to clear the net,net shot,fails to clear the net,9,9
+B,opponent hits the net,passive drop,hits the net,9,10
+A,opponent fails to clear the net,passive drop,fails to clear the net,10,10
+A,wins by landing,rush,opponent wins by landing,11,10
+A,opponent goes out of bounds,push,goes out of bounds,12,10
+B,opponent goes out of bounds,smash,goes out of bounds,12,11
+A,opponent goes out of bounds,smash,goes out of bounds,13,11
+B,opponent goes out of bounds,passive drop,goes out of bounds,13,12
+B,wins by landing,push,opponent wins by landing,13,13
+A,wins by landing,push,opponent wins by landing,14,13
+B,opponent goes out of bounds,wrist smash,goes out of bounds,14,14
+A,wins by landing,rush,opponent wins by landing,15,14
+A,opponent goes out of bounds,push,goes out of bounds,16,14
+A,opponent goes out of bounds,clear,goes out of bounds,17,14
+A,wins by landing,smash,opponent wins by landing,18,14
+A,opponent goes out of bounds,lob,goes out of bounds,19,14
+A,wins by landing,drop,opponent wins by landing,20,14
+A,opponent fails to clear the net,cross-court net shot,fails to clear the net,21,14
+
+
+Set 2:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent goes out of bounds,push,goes out of bounds,0,1
+A,wins by landing,rush,opponent wins by landing,1,1
+A,wins by landing,net shot,opponent wins by landing,2,1
+A,opponent goes out of bounds,push,goes out of bounds,3,1
+A,opponent fails to clear the net,return net,fails to clear the net,4,1
+B,opponent fails to clear the net,return net,fails to clear the net,5,2
+A,opponent hits the net,return net,hits the net,6,2
+B,wins by landing,wrist smash,opponent wins by landing,6,3
+A,opponent hits the net,smash,hits the net,7,3
+B,opponent goes out of bounds,drop,goes out of bounds,7,4
+A,wins by landing,smash,opponent wins by landing,8,4
+B,opponent goes out of bounds,drop,goes out of bounds,8,5
+A,wins by landing,rush,opponent wins by landing,9,5
+A,opponent hits the net,net shot,hits the net,10,5
+A,opponent hits the net,drop,hits the net,11,5
+A,wins by landing,push,opponent wins by landing,12,5
+A,opponent goes out of bounds,clear,goes out of bounds,13,5
+A,opponent goes out of bounds,push,goes out of bounds,14,5
+A,opponent fails to clear the net,return net,fails to clear the net,15,5
+A,wins by landing,net shot,opponent wins by landing,16,5
+A,wins by landing,rush,opponent wins by landing,18,5
+A,opponent hits the net,smash,hits the net,19,5
+A,opponent hits the net,smash,hits the net,20,5
+
+
+Set 3:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent hits the net,cross-court net shot,hits the net,0,1
+B,opponent hits the net,net shot,hits the net,0,2
+A,opponent goes out of bounds,drop,goes out of bounds,1,2
+A,opponent goes out of bounds,clear,goes out of bounds,2,2
+B,opponent fails to clear the net,net shot,fails to clear the net,2,3
+A,wins by landing,rush,opponent wins by landing,3,3
+B,opponent hits the net,net shot,hits the net,3,4
+B,opponent hits the net,rush,hits the net,3,5
+A,opponent hits the net,return net,hits the net,4,5
+A,opponent goes out of bounds,smash,goes out of bounds,5,5
+B,wins by landing,wrist smash,opponent wins by landing,5,6
+A,wins by landing,smash,opponent wins by landing,6,6
+B,opponent goes out of bounds,defensive return drive,goes out of bounds,6,7
+B,opponent goes out of bounds,lob,goes out of bounds,6,8
+B,opponent goes out of bounds,push,goes out of bounds,6,9
+B,opponent goes out of bounds,cross-court net shot,goes out of bounds,6,10
+B,wins by landing,smash,opponent wins by landing,6,11
+B,wins by landing,rush,opponent wins by landing,6,12
+B,opponent goes out of bounds,clear,goes out of bounds,6,13
+A,wins by landing,push,opponent wins by landing,7,13
+B,opponent fails to clear the net,net shot,fails to clear the net,7,14
+B,wins by landing,rush,opponent wins by landing,7,15
+A,opponent goes out of bounds,lob,goes out of bounds,8,15
+B,opponent fails to clear the net,return net,fails to clear the net,8,16
+A,wins by landing,smash,opponent wins by landing,9,16
+A,wins by landing,wrist smash,opponent wins by landing,11,16
+A,wins by landing,return net,opponent wins by landing,12,16
+A,wins by landing,smash,opponent wins by landing,13,16
+A,opponent fails to clear the net,return net,fails to clear the net,14,16
+A,opponent goes out of bounds,smash,goes out of bounds,15,16
+B,opponent hits the net,smash,hits the net,15,17
+B,opponent hits the net,drop,hits the net,15,18
+A,opponent goes out of bounds,defensive return drive,goes out of bounds,16,18
+A,wins by landing,smash,opponent wins by landing,17,18
+B,opponent goes out of bounds,smash,goes out of bounds,17,19
+B,opponent fails to clear the net,net shot,fails to clear the net,17,20
+A,wins by landing,smash,opponent wins by landing,18,20
+A,wins by landing,return net,opponent wins by landing,19,20
+B,wins by landing,smash,opponent wins by landing,19,21

@@ -1,0 +1,76 @@
+YONEX Thailand Open 2021 Finals: Viktor Axelsen v.s. Ng Ka Long Angus
+
+Set 1:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,wins by landing,push,opponent wins by landing,0,1
+A,opponent hits the net,cross-court net shot,hits the net,1,1
+A,opponent goes out of bounds,clear,goes out of bounds,2,1
+A,opponent fails to clear the net,return net,fails to clear the net,3,1
+A,opponent goes out of bounds,lob,goes out of bounds,4,1
+A,opponent goes out of bounds,clear,goes out of bounds,6,1
+B,opponent hits the net,net shot,hits the net,6,2
+B,opponent hits the net,cross-court net shot,hits the net,6,3
+A,opponent fails to clear the net,return net,fails to clear the net,7,3
+A,wins by landing,smash,opponent wins by landing,8,3
+B,wins by landing,rush,opponent wins by landing,8,4
+A,opponent goes out of bounds,push,goes out of bounds,9,4
+B,opponent goes out of bounds,push,goes out of bounds,9,5
+B,wins by landing,rush,opponent wins by landing,9,6
+B,wins by landing,cross-court net shot,opponent wins by landing,9,7
+A,opponent hits the net,net shot,hits the net,10,7
+B,wins by landing,push,opponent wins by landing,10,8
+B,opponent goes out of bounds,lob,goes out of bounds,10,9
+A,opponent goes out of bounds,lob,goes out of bounds,11,9
+B,opponent goes out of bounds,clear,goes out of bounds,11,10
+A,opponent landing judgment error,push,landing judgment error,12,11
+B,wins by landing,rush,opponent wins by landing,12,12
+A,wins by landing,smash,opponent wins by landing,13,12
+A,opponent goes out of bounds,lob,goes out of bounds,14,12
+A,opponent hits the net,cross-court net shot,hits the net,15,12
+A,wins by landing,smash,opponent wins by landing,16,12
+B,wins by landing,rush,opponent wins by landing,16,13
+A,opponent fails to clear the net,return net,fails to clear the net,17,13
+B,opponent landing judgment error,push,landing judgment error,17,14
+A,wins by landing,smash,opponent wins by landing,18,14
+A,opponent hits the net,smash,hits the net,19,14
+A,wins by landing,smash,opponent wins by landing,20,14
+A,wins by landing,smash,opponent wins by landing,21,14
+
+
+Set 2:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,wins by landing,drive,opponent wins by landing,0,1
+B,opponent hits the net,return net,hits the net,0,2
+B,wins by landing,rush,opponent wins by landing,0,3
+A,opponent hits the net,drop,hits the net,1,3
+A,opponent goes out of bounds,drop,goes out of bounds,2,3
+A,opponent landing judgment error,smash,landing judgment error,3,3
+A,opponent goes out of bounds,lob,goes out of bounds,4,3
+B,wins by landing,rush,opponent wins by landing,4,4
+A,opponent goes out of bounds,clear,goes out of bounds,5,4
+A,opponent fails to clear the net,rush,fails to clear the net,6,4
+A,opponent goes out of bounds,smash,goes out of bounds,7,4
+A,opponent goes out of bounds,lob,goes out of bounds,8,4
+B,wins by landing,smash,opponent wins by landing,8,5
+B,wins by landing,rush,opponent wins by landing,8,6
+B,wins by landing,smash,opponent wins by landing,8,7
+A,opponent hits the net,net shot,hits the net,9,7
+B,wins by landing,drop,opponent wins by landing,9,8
+A,opponent fails to clear the net,return net,fails to clear the net,10,8
+B,opponent goes out of bounds,smash,goes out of bounds,10,9
+B,opponent hits the net,net shot,hits the net,10,10
+A,opponent fails to clear the net,return net,fails to clear the net,11,10
+A,opponent goes out of bounds,drop,goes out of bounds,12,10
+A,opponent hits the net,drop,hits the net,13,10
+A,opponent goes out of bounds,clear,goes out of bounds,14,10
+A,opponent fails to clear the net,return net,fails to clear the net,15,10
+B,opponent goes out of bounds,smash,goes out of bounds,15,11
+A,wins by landing,smash,opponent wins by landing,16,11
+B,opponent landing judgment error,lob,landing judgment error,16,12
+B,opponent goes out of bounds,lob,goes out of bounds,16,13
+A,opponent fails to clear the net,return net,fails to clear the net,17,13
+B,opponent fails to clear the net,return net,fails to clear the net,17,14
+A,opponent goes out of bounds,clear,goes out of bounds,18,14
+A,opponent hits the net,net shot,hits the net,19,14
+A,opponent goes out of bounds,drop,goes out of bounds,20,14
+A,opponent fails to clear the net,net shot,fails to clear the net,21,14

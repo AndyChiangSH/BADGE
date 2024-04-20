@@ -1,0 +1,24 @@
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent goes out of bounds,push,goes out of bounds,0,1
+A,wins by landing,rush,opponent wins by landing,1,1
+A,wins by landing,net shot,opponent wins by landing,2,1
+A,opponent goes out of bounds,push,goes out of bounds,3,1
+A,opponent fails to clear the net,return net,fails to clear the net,4,1
+B,opponent fails to clear the net,return net,fails to clear the net,5,2
+A,opponent hits the net,return net,hits the net,6,2
+B,wins by landing,wrist smash,opponent wins by landing,6,3
+A,opponent hits the net,smash,hits the net,7,3
+B,opponent goes out of bounds,drop,goes out of bounds,7,4
+A,wins by landing,smash,opponent wins by landing,8,4
+B,opponent goes out of bounds,drop,goes out of bounds,8,5
+A,wins by landing,rush,opponent wins by landing,9,5
+A,opponent hits the net,net shot,hits the net,10,5
+A,opponent hits the net,drop,hits the net,11,5
+A,wins by landing,push,opponent wins by landing,12,5
+A,opponent goes out of bounds,clear,goes out of bounds,13,5
+A,opponent goes out of bounds,push,goes out of bounds,14,5
+A,opponent fails to clear the net,return net,fails to clear the net,15,5
+A,wins by landing,net shot,opponent wins by landing,16,5
+A,wins by landing,rush,opponent wins by landing,18,5
+A,opponent hits the net,smash,hits the net,19,5
+A,opponent hits the net,smash,hits the net,20,5

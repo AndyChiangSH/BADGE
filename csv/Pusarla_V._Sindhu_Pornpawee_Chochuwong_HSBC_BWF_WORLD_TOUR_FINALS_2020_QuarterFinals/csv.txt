@@ -1,0 +1,82 @@
+HSBC BWF WORLD TOUR FINALS 2020 QuarterFinals: Pusarla V. Sindhu v.s. Pornpawee Chochuwong
+
+Set 1:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,wins by landing,push,opponent wins by landing,1,0
+B,opponent fails to clear the net,drop,fails to clear the net,1,1
+A,opponent fails to clear the net,return net,fails to clear the net,2,1
+B,wins by landing,clear,opponent wins by landing,2,2
+B,wins by landing,return net,opponent wins by landing,2,3
+A,wins by landing,rush,opponent wins by landing,3,3
+B,wins by landing,smash,opponent wins by landing,3,4
+A,opponent hits the net,wrist smash,hits the net,4,4
+A,wins by landing,smash,opponent wins by landing,5,4
+A,wins by landing,smash,opponent wins by landing,6,4
+A,opponent hits the net,passive drop,hits the net,7,4
+B,opponent hits the net,lob,hits the net,7,5
+A,wins by landing,drop,opponent wins by landing,8,5
+A,opponent goes out of bounds,clear,goes out of bounds,9,5
+B,opponent fails to clear the net,net shot,fails to clear the net,9,6
+B,wins by landing,push,opponent wins by landing,9,8
+A,wins by landing,drop,opponent wins by landing,10,8
+B,opponent fails to clear the net,return net,fails to clear the net,10,9
+A,opponent hits the net,drop,hits the net,11,9
+A,opponent fails to clear the net,return net,fails to clear the net,12,9
+A,wins by landing,clear,opponent wins by landing,13,9
+B,opponent fails to clear the net,return net,fails to clear the net,13,10
+B,wins by landing,rush,opponent wins by landing,13,11
+B,opponent goes out of bounds,smash,goes out of bounds,13,12
+A,opponent fails to clear the net,return net,fails to clear the net,14,12
+B,opponent fails to clear the net,net shot,fails to clear the net,14,13
+B,opponent goes out of bounds,smash,goes out of bounds,14,14
+B,opponent fails to clear the net,net shot,fails to clear the net,14,15
+A,opponent hits the net,drop,hits the net,15,15
+B,wins by landing,drop,opponent wins by landing,15,16
+A,wins by landing,smash,opponent wins by landing,16,16
+A,opponent hits the net,smash,hits the net,17,16
+A,opponent goes out of bounds,clear,goes out of bounds,18,16
+B,opponent goes out of bounds,clear,goes out of bounds,18,17
+A,wins by landing,drop,opponent wins by landing,19,17
+B,opponent fails to clear the net,return net,fails to clear the net,19,18
+A,wins by landing,push,opponent wins by landing,20,18
+A,wins by landing,drop,opponent wins by landing,21,18
+
+
+Set 2:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,opponent goes out of bounds,smash,goes out of bounds,1,0
+A,opponent goes out of bounds,defensive return drive,goes out of bounds,2,0
+A,opponent hits the net,smash,hits the net,3,0
+A,wins by landing,smash,opponent wins by landing,4,0
+A,wins by landing,drop,opponent wins by landing,5,0
+A,opponent goes out of bounds,clear,goes out of bounds,6,0
+A,wins by landing,clear,opponent wins by landing,7,0
+B,wins by landing,push,opponent wins by landing,7,1
+A,opponent goes out of bounds,wrist smash,goes out of bounds,8,1
+B,opponent hits the net,passive drop,hits the net,8,2
+A,wins by landing,rush,opponent wins by landing,9,2
+B,wins by landing,cross-court net shot,opponent wins by landing,9,3
+A,opponent fails to clear the net,cross-court net shot,fails to clear the net,10,3
+B,wins by landing,rush,opponent wins by landing,10,4
+A,opponent goes out of bounds,push,goes out of bounds,11,4
+A,wins by landing,smash,opponent wins by landing,12,4
+B,opponent goes out of bounds,smash,goes out of bounds,12,5
+A,opponent fails to clear the net,cross-court net shot,fails to clear the net,13,5
+B,opponent goes out of bounds,return net,goes out of bounds,13,6
+B,wins by landing,smash,opponent wins by landing,13,7
+B,wins by landing,wrist smash,opponent wins by landing,13,8
+A,wins by landing,drop,opponent wins by landing,14,8
+A,opponent fails to clear the net,return net,fails to clear the net,15,8
+A,wins by landing,rush,opponent wins by landing,16,8
+B,opponent goes out of bounds,lob,goes out of bounds,16,9
+B,wins by landing,defensive return drive,opponent wins by landing,16,10
+A,wins by landing,smash,opponent wins by landing,17,10
+B,opponent goes out of bounds,clear,goes out of bounds,17,11
+A,opponent goes out of bounds,clear,goes out of bounds,18,11
+A,wins by landing,push,opponent wins by landing,19,11
+B,opponent goes out of bounds,passive drop,goes out of bounds,19,12
+B,opponent goes out of bounds,return net,goes out of bounds,19,13
+B,wins by landing,push,opponent wins by landing,19,14
+A,wins by landing,rush,opponent wins by landing,20,14
+B,opponent fails to clear the net,return net,fails to clear the net,20,15
+A,wins by landing,lob,opponent wins by landing,21,15

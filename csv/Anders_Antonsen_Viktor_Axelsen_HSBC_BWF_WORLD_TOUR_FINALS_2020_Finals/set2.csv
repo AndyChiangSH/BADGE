@@ -1,0 +1,27 @@
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent goes out of bounds,rush,goes out of bounds,0,1
+B,wins by landing,long service,opponent wins by landing,0,2
+B,opponent goes out of bounds,lob,goes out of bounds,0,3
+B,opponent hits the net,net shot,hits the net,0,4
+B,opponent goes out of bounds,lob,goes out of bounds,0,5
+A,wins by landing,smash,opponent wins by landing,1,5
+B,opponent hits the net,drop,hits the net,1,6
+B,opponent fails to clear the net,return net,fails to clear the net,1,7
+B,opponent hits the net,net shot,hits the net,1,8
+B,opponent goes out of bounds,smash,goes out of bounds,1,9
+B,opponent goes out of bounds,smash,goes out of bounds,1,10
+B,opponent goes out of bounds,lob,goes out of bounds,1,11
+B,opponent hits the net,net shot,hits the net,1,12
+B,opponent goes out of bounds,smash,goes out of bounds,1,13
+A,opponent goes out of bounds,long service,goes out of bounds,2,13
+A,opponent fails to clear the net,return net,fails to clear the net,3,13
+B,opponent goes out of bounds,cross-court net shot,goes out of bounds,3,14
+B,wins by landing,smash,opponent wins by landing,3,15
+B,opponent hits the net,wrist smash,hits the net,3,16
+A,opponent goes out of bounds,smash,goes out of bounds,4,16
+B,wins by landing,lob,opponent wins by landing,4,17
+B,opponent goes out of bounds,return net,goes out of bounds,4,18
+A,wins by landing,smash,opponent wins by landing,5,18
+B,opponent goes out of bounds,passive drop,goes out of bounds,5,19
+B,wins by landing,long service,opponent wins by landing,5,20
+B,opponent goes out of bounds,passive drop,goes out of bounds,5,21

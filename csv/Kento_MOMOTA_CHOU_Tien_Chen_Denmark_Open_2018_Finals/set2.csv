@@ -1,0 +1,35 @@
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent goes out of bounds,lob,goes out of bounds,0,1
+B,wins by landing,rush,opponent wins by landing,0,2
+A,opponent goes out of bounds,smash,goes out of bounds,1,2
+B,wins by landing,smash,opponent wins by landing,1,3
+A,wins by landing,smash,opponent wins by landing,2,3
+A,wins by landing,smash,opponent wins by landing,3,3
+B,opponent hits the net,drive,hits the net,3,4
+B,opponent hits the net,net shot,hits the net,3,6
+B,opponent goes out of bounds,smash,goes out of bounds,3,7
+B,wins by landing,short service,opponent wins by landing,3,8
+B,opponent goes out of bounds,clear,goes out of bounds,4,9
+B,wins by landing,smash,opponent wins by landing,4,10
+B,opponent hits the net,wrist smash,hits the net,4,11
+A,opponent goes out of bounds,smash,goes out of bounds,5,11
+B,opponent goes out of bounds,wrist smash,goes out of bounds,5,12
+B,opponent fails to clear the net,net shot,fails to clear the net,5,13
+A,wins by landing,rush,opponent wins by landing,6,13
+B,opponent hits the net,wrist smash,hits the net,6,14
+A,opponent goes out of bounds,return net,goes out of bounds,7,14
+A,wins by landing,rush,opponent wins by landing,8,14
+A,opponent goes out of bounds,push,goes out of bounds,9,14
+A,opponent hits the net,rush,hits the net,10,14
+B,unknown,push,unknown,10,15
+A,opponent goes out of bounds,wrist smash,goes out of bounds,11,15
+B,wins by landing,wrist smash,opponent wins by landing,11,16
+B,opponent goes out of bounds,cross-court net shot,goes out of bounds,11,17
+B,opponent hits the net,drop,hits the net,11,18
+A,opponent goes out of bounds,smash,goes out of bounds,12,18
+B,wins by landing,wrist smash,opponent wins by landing,12,19
+B,opponent goes out of bounds,lob,goes out of bounds,12,20
+A,wins by landing,wrist smash,opponent wins by landing,13,20
+A,wins by landing,rush,opponent wins by landing,15,20
+A,opponent hits the net,passive drop,hits the net,16,20
+B,opponent goes out of bounds,lob,goes out of bounds,16,21

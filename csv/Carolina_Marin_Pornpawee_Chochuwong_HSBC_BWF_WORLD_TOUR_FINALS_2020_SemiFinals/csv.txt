@@ -1,0 +1,76 @@
+HSBC BWF WORLD TOUR FINALS 2020 SemiFinals: Carolina Marin v.s. Pornpawee Chochuwong
+
+Set 1:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,opponent goes out of bounds,drop,goes out of bounds,1,0
+A,opponent goes out of bounds,lob,goes out of bounds,2,0
+A,opponent goes out of bounds,lob,goes out of bounds,3,0
+A,wins by landing,rush,opponent wins by landing,4,0
+B,wins by landing,push,opponent wins by landing,4,1
+B,wins by landing,smash,opponent wins by landing,4,2
+A,opponent goes out of bounds,lob,goes out of bounds,5,2
+A,opponent goes out of bounds,clear,goes out of bounds,6,2
+B,wins by landing,smash,opponent wins by landing,6,3
+A,opponent goes out of bounds,clear,goes out of bounds,7,3
+B,opponent hits the net,smash,hits the net,7,4
+A,opponent fails to clear the net,net shot,fails to clear the net,8,4
+B,wins by landing,rush,opponent wins by landing,8,5
+A,wins by landing,net shot,opponent wins by landing,9,5
+B,opponent goes out of bounds,drive,goes out of bounds,9,6
+B,opponent hits the net,smash,hits the net,9,7
+B,opponent fails to clear the net,net shot,fails to clear the net,9,8
+A,opponent hits the net,short service,hits the net,10,8
+B,opponent fails to clear the net,drive,fails to clear the net,10,9
+A,opponent goes out of bounds,wrist smash,goes out of bounds,11,9
+B,wins by landing,push,opponent wins by landing,11,10
+A,wins by landing,net shot,opponent wins by landing,12,10
+A,wins by landing,net shot,opponent wins by landing,13,10
+A,wins by landing,smash,opponent wins by landing,14,10
+A,opponent goes out of bounds,lob,goes out of bounds,15,10
+A,wins by landing,smash,opponent wins by landing,16,10
+A,wins by landing,drop,opponent wins by landing,17,10
+A,opponent fails to clear the net,passive drop,fails to clear the net,18,10
+B,wins by landing,smash,opponent wins by landing,18,11
+B,opponent fails to clear the net,return net,fails to clear the net,18,12
+B,opponent goes out of bounds,drive,goes out of bounds,18,13
+A,wins by landing,clear,opponent wins by landing,19,13
+A,wins by landing,drop,opponent wins by landing,20,13
+A,wins by landing,wrist smash,opponent wins by landing,21,13
+
+
+Set 2:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,opponent goes out of bounds,push,goes out of bounds,1,0
+B,opponent fails to clear the net,drive,fails to clear the net,1,1
+A,opponent goes out of bounds,push,goes out of bounds,2,1
+B,wins by landing,defensive return drive,opponent wins by landing,2,2
+A,opponent fails to clear the net,net shot,fails to clear the net,3,2
+A,opponent hits the net,drive,hits the net,4,2
+A,wins by landing,smash,opponent wins by landing,5,2
+A,opponent fails to clear the net,net shot,fails to clear the net,6,2
+A,opponent fails to clear the net,net shot,fails to clear the net,7,2
+A,opponent hits the net,passive drop,hits the net,8,2
+B,opponent goes out of bounds,lob,goes out of bounds,8,3
+A,opponent hits the net,net shot,hits the net,9,3
+A,wins by landing,smash,opponent wins by landing,10,3
+A,opponent goes out of bounds,lob,goes out of bounds,11,3
+B,opponent hits the net,drop,hits the net,11,4
+A,wins by landing,clear,opponent wins by landing,12,4
+A,opponent goes out of bounds,lob,goes out of bounds,13,4
+B,opponent fails to clear the net,return net,fails to clear the net,13,5
+A,opponent fails to clear the net,net shot,fails to clear the net,14,5
+B,opponent hits the net,drop,hits the net,14,6
+B,wins by landing,smash,opponent wins by landing,14,7
+B,opponent hits the net,back-court drive,hits the net,14,8
+A,wins by landing,return net,opponent wins by landing,15,8
+B,opponent goes out of bounds,clear,goes out of bounds,15,9
+B,wins by landing,smash,opponent wins by landing,15,10
+A,wins by landing,net shot,opponent wins by landing,16,10
+B,wins by landing,smash,opponent wins by landing,16,11
+A,opponent hits the net,passive drop,hits the net,17,11
+A,opponent goes out of bounds,push,goes out of bounds,18,11
+A,opponent hits the net,return net,hits the net,19,11
+B,opponent goes out of bounds,clear,goes out of bounds,19,12
+B,opponent goes out of bounds,net shot,goes out of bounds,19,13
+A,opponent hits the net,wrist smash,hits the net,20,13
+A,opponent fails to clear the net,net shot,fails to clear the net,21,13

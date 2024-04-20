@@ -1,0 +1,59 @@
+Malaysia Masters 2020 Finals: Kento MOMOTA v.s. Viktor AXELSEN
+
+Set 1:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+B,opponent goes out of bounds,return net,goes out of bounds,0,1
+B,wins by landing,cross-court net shot,opponent wins by landing,0,2
+B,wins by landing,smash,opponent wins by landing,1,3
+A,wins by landing,return net,opponent wins by landing,2,7
+A,wins by landing,smash,opponent wins by landing,3,7
+A,opponent goes out of bounds,cross-court net shot,goes out of bounds,4,7
+B,opponent goes out of bounds,clear,goes out of bounds,5,8
+A,opponent hits the net,net shot,hits the net,7,8
+A,opponent goes out of bounds,push,goes out of bounds,9,8
+B,opponent goes out of bounds,drop,goes out of bounds,9,9
+A,opponent fails to clear the net,return net,fails to clear the net,11,9
+A,opponent goes out of bounds,net shot,goes out of bounds,12,9
+B,wins by landing,wrist smash,opponent wins by landing,12,10
+A,wins by landing,cross-court net shot,opponent wins by landing,13,10
+B,wins by landing,wrist smash,opponent wins by landing,14,12
+A,opponent goes out of bounds,net shot,goes out of bounds,15,12
+B,opponent fails to clear the net,return net,fails to clear the net,15,13
+A,opponent goes out of bounds,push,goes out of bounds,17,13
+B,opponent hits the net,net shot,hits the net,18,14
+B,opponent hits the net,passive drop,hits the net,18,17
+A,opponent hits the net,return net,hits the net,19,18
+B,opponent goes out of bounds,defensive return drive,goes out of bounds,19,19
+A,opponent goes out of bounds,push,goes out of bounds,20,20
+B,opponent goes out of bounds,lob,goes out of bounds,20,21
+B,opponent goes out of bounds,push,goes out of bounds,21,22
+A,wins by landing,smash,opponent wins by landing,23,22
+
+
+Set 2:
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,wins by landing,rush,opponent wins by landing,1,0
+A,wins by landing,wrist smash,opponent wins by landing,2,0
+A,opponent goes out of bounds,rush,goes out of bounds,3,0
+A,wins by landing,rush,opponent wins by landing,5,1
+B,opponent goes out of bounds,smash,goes out of bounds,5,2
+A,opponent fails to clear the net,return net,fails to clear the net,7,2
+A,opponent goes out of bounds,push,goes out of bounds,8,2
+A,wins by landing,net shot,opponent wins by landing,9,2
+A,opponent goes out of bounds,push,goes out of bounds,10,2
+A,opponent goes out of bounds,smash,goes out of bounds,11,2
+A,opponent goes out of bounds,smash,goes out of bounds,12,2
+A,opponent hits the net,net shot,hits the net,13,2
+A,opponent goes out of bounds,push,goes out of bounds,14,2
+B,opponent hits the net,cross-court net shot,hits the net,14,3
+A,wins by landing,smash,opponent wins by landing,15,3
+A,opponent goes out of bounds,drive,goes out of bounds,16,3
+A,wins by landing,rush,opponent wins by landing,17,3
+B,opponent goes out of bounds,passive drop,goes out of bounds,17,4
+B,opponent hits the net,rush,hits the net,17,5
+B,wins by landing,lob,opponent wins by landing,17,9
+A,opponent fails to clear the net,return net,fails to clear the net,18,9
+A,opponent hits the net,wrist smash,hits the net,19,9
+B,opponent hits the net,smash,hits the net,19,10
+B,wins by landing,rush,opponent wins by landing,19,11
+A,wins by landing,return net,opponent wins by landing,21,11

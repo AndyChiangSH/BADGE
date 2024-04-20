@@ -1,0 +1,41 @@
+win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
+A,opponent hits the net,smash,hits the net,1,0
+B,opponent fails to clear the net,return net,fails to clear the net,1,1
+A,opponent landing judgment error,clear,landing judgment error,2,1
+B,opponent goes out of bounds,lob,goes out of bounds,2,2
+A,wins by landing,clear,opponent wins by landing,3,2
+A,wins by landing,wrist smash,opponent wins by landing,4,2
+A,wins by landing,push,opponent wins by landing,5,2
+B,opponent goes out of bounds,lob,goes out of bounds,5,3
+B,wins by landing,smash,opponent wins by landing,5,4
+B,opponent hits the net,net shot,hits the net,5,5
+B,opponent goes out of bounds,wrist smash,goes out of bounds,5,6
+A,wins by landing,net shot,opponent wins by landing,6,6
+A,opponent goes out of bounds,clear,goes out of bounds,7,6
+A,wins by landing,push,opponent wins by landing,8,6
+B,wins by landing,smash,opponent wins by landing,8,7
+A,opponent goes out of bounds,lob,goes out of bounds,9,7
+B,opponent goes out of bounds,clear,goes out of bounds,9,8
+A,opponent goes out of bounds,wrist smash,goes out of bounds,10,8
+A,opponent goes out of bounds,lob,goes out of bounds,11,8
+B,opponent hits the net,net shot,hits the net,11,9
+A,wins by landing,net shot,opponent wins by landing,12,9
+A,opponent goes out of bounds,clear,goes out of bounds,13,9
+B,wins by landing,defensive return lob,opponent wins by landing,13,10
+B,wins by landing,rush,opponent wins by landing,13,11
+A,wins by landing,net shot,opponent wins by landing,14,11
+B,opponent hits the net,net shot,hits the net,14,12
+A,opponent hits the net,net shot,hits the net,15,12
+B,opponent goes out of bounds,push,goes out of bounds,15,13
+A,opponent goes out of bounds,return net,goes out of bounds,16,13
+B,opponent landing judgment error,lob,landing judgment error,16,14
+A,wins by landing,net shot,opponent wins by landing,17,14
+B,opponent goes out of bounds,defensive return drive,goes out of bounds,17,15
+A,opponent goes out of bounds,clear,goes out of bounds,18,15
+B,opponent hits the net,return net,hits the net,18,16
+B,opponent hits the net,smash,hits the net,18,17
+A,opponent hits the net,wrist smash,hits the net,19,17
+B,opponent goes out of bounds,passive drop,goes out of bounds,19,18
+B,opponent goes out of bounds,clear,goes out of bounds,19,19
+A,opponent goes out of bounds,drop,goes out of bounds,20,19
+A,wins by landing,rush,opponent wins by landing,21,19
