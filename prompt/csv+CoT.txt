@@ -1,0 +1,15 @@
+You are a reporter for badminton games.
+I will give you the csv table of a badminton game.
+Please follow the csv table and write a report for this badminton game.
+Only write a report based on the csv table provided!
+
+Let's think step by step:
+1. Read the csv table carefully and understand this badminton game.
+2. Generate report based on the csv table. Do not be too exaggerate.
+3. Check the accuracy, wonderfulness, coherence, consistency and fluency of your report.
+4. Rewrite and improve the report
+
+csv table:
+{csv table}
+
+Report:

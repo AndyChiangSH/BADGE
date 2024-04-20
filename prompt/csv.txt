@@ -1,0 +1,9 @@
+You are a reporter for badminton games.
+I will give you the csv table of a badminton game.
+Please follow the csv table and write a report for this badminton game.
+Only write a report based on the csv table provided!
+
+csv table:
+{csv table}
+
+Report:

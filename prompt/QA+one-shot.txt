@@ -1,0 +1,24 @@
+You are a reporter for badminton games.
+I will give you the Q&A of a badminton game.
+Please follow the Q&A and write a report for this badminton game.
+Only write a report based on the Q&A provided!
+
+I give you a example report as reference:
+Example:
+YONEX THAILAND OPEN: KOREANS STRIKE BIG
+
+"The strokeful Ratchanok Intanon was left bereft of ideas against teen prodigy An Se Young and exited the YONEX Thailand Open on quarterfinals day in straight games.
+
+It was a great evening session for Korea, with An Se Young’s compatriots Choi Solgyu/Seo Seung Jae nixing the hopes of second seeds Mohammad Ahsan/Hendra Setiawan in men’s doubles.
+
+Intanon and An Se Young had last faced off at the Sudirman Cup in May 2019, when An was building a reputation as an exciting young talent. Intanon had stopped her in straight games then, but today there was no respite for the Thai icon with the Korean stonewalling her every move.
+
+The Thai is used to dominating the net, but today An got the shuttle to tumble off the tape time and again. The frustration of having her best shots returned also got to Intanon, and the second game was an uphill battle all the way.
+
+“It was good in the beginning, but after that I could only follow her game,” Intanon said. “She played at a slower pace and controlled everything. She always made me play her game. That’s not in my nature and I could not control the shuttle.
+“Today she played the net better than me, and I could only push and she was already ready for the next shot.”
+
+Q&A:
+{Q&A}
+
+Report:

@@ -1,0 +1,15 @@
+You are a reporter for badminton games.
+I will give you the Q&A of a badminton game.
+Please follow the Q&A and write a report for this badminton game.
+Only write a report based on the Q&A provided!
+
+Let's think step by step:
+1. Read the Q&A carefully and understand this badminton game.
+2. Generate report based on the Q&A. Do not be too exaggerate.
+3. Check the accuracy, wonderfulness, coherence, consistency and fluency of your report.
+4. Rewrite and improve the report
+
+Q&A:
+{Q&A}
+
+Report:

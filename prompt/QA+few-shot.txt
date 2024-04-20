@@ -1,0 +1,50 @@
+You are a reporter for badminton games.
+I will give you the Q&A of a badminton game.
+Please follow the Q&A and write a report for this badminton game.
+Only write a report based on the Q&A provided!
+
+I give you some example reports as reference:
+Example 1:
+YONEX THAILAND OPEN: KOREANS STRIKE BIG
+
+"The strokeful Ratchanok Intanon was left bereft of ideas against teen prodigy An Se Young and exited the YONEX Thailand Open on quarterfinals day in straight games.
+
+It was a great evening session for Korea, with An Se Young’s compatriots Choi Solgyu/Seo Seung Jae nixing the hopes of second seeds Mohammad Ahsan/Hendra Setiawan in men’s doubles.
+
+Intanon and An Se Young had last faced off at the Sudirman Cup in May 2019, when An was building a reputation as an exciting young talent. Intanon had stopped her in straight games then, but today there was no respite for the Thai icon with the Korean stonewalling her every move.
+
+The Thai is used to dominating the net, but today An got the shuttle to tumble off the tape time and again. The frustration of having her best shots returned also got to Intanon, and the second game was an uphill battle all the way.
+
+“It was good in the beginning, but after that I could only follow her game,” Intanon said. “She played at a slower pace and controlled everything. She always made me play her game. That’s not in my nature and I could not control the shuttle.
+“Today she played the net better than me, and I could only push and she was already ready for the next shot.”
+
+Example 2:
+DENMARK OPEN 2018 – The best are the best
+
+Kento Momota was the top seed but he took over the world #1 spot from Viktor Axelsen in late September.  He came in with a 3-match winning streak over Chinese Taipei’s Chou Tien Chen but the world #4 won their first meeting in 2018 en route to winning the German Open.
+
+Chou Tien Chen has been one of the busiest top ten players in the past few months, if not the past year.  He has played 7 tournaments (plus the Asian Games team event) in the last 12 weeks and in the last 8 weeks, he has reached 5 semi-finals, converting 3 of those into appearances in the finals.
+
+Chou’s stamina issues were not helped by the end of the first game.  After the two players battled to 20-all, Kento Momota (pictured right) hit an impossibly good net tumble then was not faulted even though the reply clearly showed he’d reached over the net to kill a reply from Chou that was not going to even make it over the net.  Momota beat Chou on the same front forehand corner one rally later and claimed the first game 22-20.
+
+Chou bounced back to win the second game – despite being unable to convert on his first 4 game point opportunities – but then Momota surged ahead late in the decider to cap off his victory.  Momota thus claimed his 5th title of the year.  As two of these were the World and the Asian Championships, he has been accumulating slightly fewer points on the BWF World Tour and is now the only world #1 who did not also finish the weekend on top of the Race to Guangzhou standings.
+
+All of the finalists will now head to Paris for the French Open Super 750.  Chou Tien Chen and Zheng/Huang have put themselves in the position such that they are assured of qualifying for the World Tour Finals as long as they merely step on court for their first round matches in Paris, Fuzhou, and Hong Kong.
+
+Example 3:
+BWF Yonex Thailand Open 2021 Finals: Viktor Axelsen vs Angus Ng Ka Long
+
+Fourth seed, Viktor Axelsen sets up an exciting title clash against the seventh seed, Angus Ng Ka Long in the Thailand Open on 17th Jan, 2021
+
+The head to head record between both the players is completely one-sided with Axelsen leading it 9-0 against Angus. The Dane has also won his last 3 matches against the World number 8 in straight games.
+
+Despite trailing by a significant margin of points in his matches, Long has taken a streak of points continuously to turn the tables. His struggles to finish matches have also been displayed.
+
+Viktor Axelsen has recovered fully after undergoing ankle surgery last year. Standing at a towering height of 6 foot and 4 inches, the Dane has a powerful smash and is very strong from the backcourt with his attacking game.
+
+He can struggle a bit when he is forced to retrieve regularly or when he plays around the net a lot. But the World number 4, Axelsen can run away with the game if he takes the early charge on by playing aggressively from the frontcourt. His speed and agility are close to none when he is in full flow.
+
+Q&A:
+{Q&A}
+
+Report:
