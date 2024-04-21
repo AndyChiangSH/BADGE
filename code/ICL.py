@@ -4,7 +4,7 @@ from openai import OpenAI
 
 if __name__ == '__main__':
     data_type = "QA"  # csv or QA
-    prompt_type = "one-shot"
+    prompt_type = "few-shot"
     filename = data_type + "+" + prompt_type
     model = "gpt-3.5-turbo-0125"
     
