@@ -1,0 +1,39 @@
+
+1. Read for Structure and Organization: 8
+2. Sentence-Level Analysis:
+   - Sentence 1: 7
+   - Sentence 2: 8
+   - Sentence 3: 7
+   - Sentence 4: 7
+   - Sentence 5: 8
+   - Sentence 6: 8
+   - Sentence 7: 7
+   - Sentence 8: 8
+   - Sentence 9: 7
+   - Sentence 10: 8
+   - Sentence 11: 7
+   - Sentence 12: 8
+   - Sentence 13: 7
+   - Sentence 14: 8
+   - Sentence 15: 7
+   - Sentence 16: 8
+   - Sentence 17: 7
+   - Sentence 18: 8
+   - Sentence 19: 7
+   - Sentence 20: 8
+   - Sentence 21: 7
+   - Sentence 22: 8
+   - Sentence 23: 8
+   - Sentence 24: 7
+   - Sentence 25: 8
+   - Sentence 26: 7
+   - Sentence 27: 8
+   - Sentence 28: 7
+   - Sentence 29: 8
+   - Sentence 30: 7
+   - Sentence 31: 8
+   - Sentence 32: 7
+   - Sentence 33: 8
+3. Overall Coherence Assessment: 8
+
+- Coherence: 8.2 (average score)
