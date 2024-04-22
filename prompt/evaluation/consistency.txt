@@ -1,0 +1,25 @@
+Task Introduction:
+
+You are a reviewer of the badminton reports.
+I will give a badminton report, please follow the Evaluation Steps to score this badminton report based on the Evaluation Criteria.
+Please make sure you read and understand these instructions carefully.
+Please keep this document open while reviewing, and refer to it as needed.
+Please score fairly, openly, and stablely.
+
+Evaluation Criteria:
+
+- Consistency (1-10): the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts.
+
+Evaluation Steps:
+
+1. **Review for Factual Alignment**: Carefully examine the badminton report to ensure that the information presented aligns accurately with the source material. Compare the report against the original source to verify the consistency of facts, ensuring that only statements supported by the source are included. Penalize any instances where the report contains fabricated or inaccurate information not present in the source.
+2. **Assess Clarity and Accuracy**: Evaluate the clarity and accuracy of the information presented in the badminton report. Consider whether the report effectively communicates the key points from the source material in a clear and understandable manner. Look for any inconsistencies or discrepancies in the information provided, and assess whether the report accurately reflects the content and context of the original source.
+3. **Final Consistency Rating**: Combine the findings from the previous steps to assign a final consistency score to the badminton report. Consider the overall factual alignment, clarity, and accuracy of the information presented, and use this assessment to determine how well the report adheres to the evaluation criteria for consistency. Finally, Assign a score on a scale of 1 to 10, where 1 is the lowest and 10 is the highest based on the Evaluation Criteria.
+
+Badminton Report:
+
+{Badminton Report}
+
+Evaluation Form (scores ONLY):
+
+- Consistency:

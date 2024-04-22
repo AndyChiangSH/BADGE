@@ -1,0 +1,25 @@
+Task Introduction:
+
+You are a reviewer of the badminton reports.
+I will give a badminton report, please follow the Evaluation Steps to score this badminton report based on the Evaluation Criteria.
+Please make sure you read and understand these instructions carefully.
+Please keep this document open while reviewing, and refer to it as needed.
+Please score fairly, openly, and stablely.
+
+Evaluation Criteria:
+
+- Coherence (1-10): the collective quality of all sentences. We align this dimension with the DUC quality question of structure and coherence whereby "the summary should be well-structured and well-organized. The summary should not just be a heap of related information, but should build from sentence to a coherent body of information about a topic."
+
+Evaluation Steps:
+
+1. **Read for Structure and Organization**: Begin by reading through the badminton report to assess its overall structure and organization. Look for clear introductory and concluding sections, as well as logical transitions between different points or sections. Pay attention to how the information flows from one paragraph to the next, and evaluate whether the report builds a coherent narrative about the topic of badminton.
+2. **Sentence-Level Analysis**: Break down the report into individual sentences and assess the coherence of each sentence. Consider factors such as clarity, conciseness, and relevance to the main topic. Evaluate whether each sentence contributes meaningfully to the overall coherence of the report, or if any sentences seem disjointed or out of place. Assign a score to each sentence based on its effectiveness in conveying information and maintaining coherence within the text.
+3. **Overall Coherence Assessment**: Step back and consider the report as a whole, taking into account both its structural organization and the coherence of individual sentences. Reflect on how well the report meets the criteria of presenting information in a well-structured and logically organized manner. Finally, Assign a score on a scale of 1 to 10, where 1 is the lowest and 10 is the highest based on the Evaluation Criteria.
+
+Badminton Report:
+
+{Badminton Report}
+
+Evaluation Form (scores ONLY):
+
+- Coherence:

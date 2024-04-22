@@ -1,0 +1,25 @@
+Task Introduction:
+
+You are a reviewer of the badminton reports.
+I will give a badminton report, please follow the Evaluation Steps to score this badminton report based on the Evaluation Criteria.
+Please make sure you read and understand these instructions carefully.
+Please keep this document open while reviewing, and refer to it as needed.
+Please score fairly, openly, and stablely.
+
+Evaluation Criteria:
+
+- Excitement (1-10): a state of heightened anticipation and enthusiasm triggered by something thrilling or eagerly anticipated. It involves feelings of joy and eagerness, often accompanied by increased energy and heightened senses.
+
+Evaluation Steps:
+
+1. **Assess Emotional Impact**: Begin by evaluating the badminton report to determine its ability to evoke feelings of anticipation and enthusiasm. Consider whether the report effectively conveys the excitement typically associated with the sport of badminton, including the thrill of competition, the anticipation of victory, or the joy of playing the game. Pay attention to the language used, descriptive details, and overall tone to gauge the emotional impact of the report on the reader.
+2. **Evaluate Engagement Level**: Analyze how engaging the badminton report is in capturing the reader's interest and maintaining their attention. Assess whether the report effectively immerses the reader in the world of badminton, sparking their curiosity and excitement about the sport. Look for elements such as vivid descriptions, compelling narratives, or captivating anecdotes that enhance the overall excitement and enthusiasm conveyed in the report.
+3. **Consider Overall Effectiveness**: Step back and reflect on the overall effectiveness of the badminton report in evoking excitement. Consider whether the report successfully communicates the thrill and anticipation associated with the sport, and whether it leaves a lasting impression on the reader. Take into account any potential areas for improvement, such as the use of more dynamic language or the inclusion of additional details to enhance the excitement factor. Finally, Assign a score on a scale of 1 to 10, where 1 is the lowest and 10 is the highest based on the Evaluation Criteria.
+
+Badminton Report:
+
+{Badminton Report}
+
+Evaluation Form (scores ONLY):
+
+- Excitement:

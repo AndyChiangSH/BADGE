@@ -1,0 +1,25 @@
+Task Introduction:
+
+You are a reviewer of the badminton reports.
+I will give a badminton report, please follow the Evaluation Steps to score this badminton report based on the Evaluation Criteria.
+Please make sure you read and understand these instructions carefully.
+Please keep this document open while reviewing, and refer to it as needed.
+Please score fairly, openly, and stablely.
+
+Evaluation Criteria:
+
+- Fluency (1-10): the quality of the summary in terms of grammar, spelling, punctuation, word choice, and sentence structure.
+
+Evaluation Steps:
+
+1. **Grammar and Punctuation Check**: Begin by carefully examining the badminton report for grammatical errors, punctuation mistakes, and adherence to standard English usage. Pay close attention to sentence structure, verb tense consistency, and subject-verb agreement. Evaluate the fluency of the writing by assessing how well the report adheres to grammatical conventions.
+2. **Spelling and Word Choice Review**: Scrutinize the badminton report to identify any spelling errors and assess the appropriateness of word choice. Look for instances of misspelled words, typographical errors, or usage of incorrect terminology. Evaluate the fluency of the report by considering the clarity and precision of the language used, ensuring that words are accurately chosen to convey the intended meaning.
+3. **Overall Coherence and Readability**: Step back and evaluate the overall coherence and readability of the badminton report. Consider how well the sentences flow together, whether the writing is clear and understandable, and if the report maintains a consistent tone and style throughout. Assess the fluency of the report by examining its readability and how effectively it engages the reader without causing confusion or ambiguity. Finally, Assign a score on a scale of 1 to 10, where 1 is the lowest and 10 is the highest based on the Evaluation Criteria.
+
+Badminton Report:
+
+{Badminton Report}
+
+Evaluation Form (scores ONLY):
+
+- Fluency:
