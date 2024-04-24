@@ -1,1 +1,3 @@
-8
+Consistency: 4
+
+The consistency score of 4 is assigned based on several factual inaccuracies and contradictions within the badminton report compared to all the information presented. The report concludes with a statement that Anthony Sinisuka Ginting was the winner of the match, but also describes in detail how Rasmus Gemke won the final set and "ultimately emerged victorious with a smash that landed in, sealing the match in his favor." This contradiction brings significant confusion and inconsistency regarding the actual winner of the match. Additionally, a score of 20-5 mentioned for the second set is highly unusual and atypical for professional badminton scoring, raising questions about the accuracy of the report.

@@ -1,9 +1,1 @@
-
-1. Read for Structure and Organization: 8
-2. Sentence-Level Analysis:
-   - First set sentences: 7
-   - Second set sentences: 7
-   - Overall sentence coherence: 7
-3. Overall Coherence Assessment: 8
-
-- Coherence: 7.5
+8

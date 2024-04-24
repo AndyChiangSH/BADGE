@@ -1,2 +1,3 @@
+Based on the description provided in the badminton report, the factual consistency seems to be primarily upheld. The report outlines the match's scores, specific strategies, and point occurrences clearly indicating a close alignment with plausible events of a badminton match at this level (assuming no contradictory information from the source document, as no source discrepancies have been indicated). The mention of specific types of shots and scores suggests a diligent extraction of relevant information. Without detectable hallucination of facts or inconsistencies noted in the summary (given no access to the source document), the report appears to be consistent.
 
-8
+- Consistency: 9

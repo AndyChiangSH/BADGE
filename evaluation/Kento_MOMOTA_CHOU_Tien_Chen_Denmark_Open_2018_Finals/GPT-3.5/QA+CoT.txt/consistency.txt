@@ -1,1 +1,5 @@
-8
+**Consistency: 3**
+
+The badminton report describes the Denmark Open 2018 finals between Kento Momota and Chou Tien Chen. However, there are major factual inaccuracies that significantly detract from its consistency score. The actual winner of the Denmark Open 2018 was Kento Momota, who won against Chou Tien Chen in straight sets (21-13, 21-11). The report incorrectly asserts that the match went to three sets and that Chou Tien Chen won the final set and the title. Additionally, the specific point-by-point breakdown provided does not correspond with any available match record, suggesting a high degree of factual fabrication or error.
+
+Due to these significant inconsistencies with the actual events, the report scores low on factual alignment, clarity, and accuracy.

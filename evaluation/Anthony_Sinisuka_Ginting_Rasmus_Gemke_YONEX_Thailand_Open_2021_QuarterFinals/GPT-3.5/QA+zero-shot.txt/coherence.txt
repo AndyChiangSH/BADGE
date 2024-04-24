@@ -1,6 +1,1 @@
-
-1. 8
-2. 7
-3. 8
-
-Overall Coherence Assessment: 8
+Coherence: 8

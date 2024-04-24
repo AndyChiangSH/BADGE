@@ -1,1 +1,3 @@
-9/10
+Consistency: 9
+
+Explanation: The report appears factually consistent with what could be expected from an accurate summary of a badminton match, with specific scores and descriptions of each player's performance. There is no evident hallucination of facts, and all details align with the thematic content you would expect from a semi-final match report in a badminton tournament. The score is not perfect due to potential minor discrepancies that could exist without access to the very specific, original source material for direct comparison; however, overall, the report maintains high factual alignment with the expected events of such a game.

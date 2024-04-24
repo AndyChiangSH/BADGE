@@ -1,26 +1,3 @@
+**Coherence: 8**
 
-1. Read for Structure and Organization: 8
-2. Sentence-Level Analysis: 
-   - Sentence 1: 9
-   - Sentence 2: 7
-   - Sentence 3: 8
-   - Sentence 4: 8
-   - Sentence 5: 9
-   - Sentence 6: 8
-   - Sentence 7: 9
-   - Sentence 8: 7
-   - Sentence 9: 8
-   - Sentence 10: 9
-   - Sentence 11: 7
-   - Sentence 12: 8
-   - Sentence 13: 9
-   - Sentence 14: 8
-   - Sentence 15: 8
-   - Sentence 16: 9
-   - Sentence 17: 8
-   - Sentence 18: 9
-3. Overall Coherence Assessment: 8
-
-Total Coherence Score: 143/170
-
-Final Coherence Score: 8.4
+The report presents coherent and logically structured information about the YONEX Thailand Open 2021 Finals featuring Viktor Axelsen and Ng Ka Long Angus. Each paragraph focuses on describing the events of a specific set, clearly indicating the flow of the match and illustrating the progression of the game from one set to another. The introduction and conclusion sections are well constructed, providing a summary of the match and highlighting the overall performance of the winning player. The narrative maintains a clear focus on the main topic, creating a cohesive report on the badminton game. The language is clear, and each sentence contributes meaningfully to the overall narrative. However, there might be room for slightly more detailed transitions between the sets and additional context about the significance of the match or its impact, which could have enhanced the depth of coherence and narrative connection.

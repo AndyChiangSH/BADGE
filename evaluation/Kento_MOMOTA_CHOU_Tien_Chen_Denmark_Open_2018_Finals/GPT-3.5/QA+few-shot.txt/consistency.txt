@@ -1,1 +1,3 @@
-8/10
+**Consistency: 9**
+
+This score is based on a careful review of how factually aligned the summary is with the events of the Denmark Open 2018 finals between Kento Momota and Chou Tien Chen. The report correctly identifies the winner and the flow of the sets, providing plausible scores and details of the gameplay. It does not appear to include any hallucinated facts or inconsistent information regarding the match outcomes or the progression of the sets. However, without access to the exact source material to verify each specific detail mentioned in the report (like the precise way points were scored), a perfect score cannot be reliably given; hence, a score of 9 reflects a high degree of confidence in the factual alignment with minor reservations about unverifiable specifics.

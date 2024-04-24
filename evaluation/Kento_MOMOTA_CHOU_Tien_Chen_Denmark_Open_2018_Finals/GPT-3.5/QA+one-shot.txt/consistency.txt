@@ -1,1 +1,4 @@
-8
+- Consistency: 6
+
+Explanation for the rating:
+The report starts by stating that Kento Momota won the Denmark Open 2018 finals against Chou Tien Chen in straight games, which implies winning without losing any set. However, the report contradicts itself by describing three sets, with Momota winning two sets and Chen winning one, which does not match the initial claim. Thus, there is a factual inconsistency, as the summary states a straight-game win, but the detailed match description indicates a match that went to three sets. This discrepancy leads to a deduction in the consistency score.

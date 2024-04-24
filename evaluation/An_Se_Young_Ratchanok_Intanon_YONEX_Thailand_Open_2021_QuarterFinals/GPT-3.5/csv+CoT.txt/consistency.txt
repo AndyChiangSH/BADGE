@@ -1,1 +1,3 @@
-8
+Consistency: 9
+
+Explanation: The report maintains a high level of factual consistency with typical reporting on badminton matches, describing the events logically and without any evident factual inaccuracies regarding the gameplay or the flow of the match. There do not appear to be any hallucinated facts; however, without the original source document to confirm each detail, a score of 10 cannot be confidently assigned. Thus, a slight deduction is made, reflecting minor uncertainty in confirming the exactness of every reported detail.

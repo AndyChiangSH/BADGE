@@ -1,1 +1,5 @@
-9
+Based on my evaluation of the provided badminton report, there is a factual inconsistency regarding the results of the match. The report states that the match was tied after the second set with Gemke winning the third set, suggesting a final victory for Gemke. However, the detailed scores and sequence of events provided do not support this, creating a discrepancy. Such inaccuracies negatively impact the overall factual alignment between the summary and the source material when it implies a tied score that doesn't logically follow from the information provided in the initial sets' outcomes.
+
+Given this issue, the badminton report shows a significant factual inconsistency. Therefore, the score for consistency, which focuses on factual alignment and accuracy, is affected.
+
+- Consistency: 3

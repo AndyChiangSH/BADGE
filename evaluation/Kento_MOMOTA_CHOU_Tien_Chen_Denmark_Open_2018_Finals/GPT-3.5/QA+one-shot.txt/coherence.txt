@@ -1,14 +1,1 @@
-
-1. Read for Structure and Organization: 8
-2. Sentence-Level Analysis: 
-   - Momota's skill and experience were evident in the finals against Chou Tien Chen, resulting in a straight games victory: 9
-   - Momota's precision and control allowed him to secure the first set with a narrow win: 7
-   - Chen struggled to counter Momota's tactics, leading to his loss in the first set: 6
-   - Momota's dominance continued in the second set with strategic play and capitalizing on Chen's mistakes: 8
-   - Momota's victory in the second set highlighted his control over the match: 7
-   - Chen fought back in the third set, capitalizing on Momota's errors to secure the win: 8
-   - Chen's victory in the third set showcased his resilience and determination: 7
-   - Overall, Momota's superior gameplay and strategic moves led to his victory in the Denmark Open 2018 finals: 9
-3. Overall Coherence Assessment: 8
-
-- Coherence Score: 8. (Overall, the report effectively conveys the flow of the match, detailing key points and outcomes in a logical manner. There is a clear progression from set to set, showcasing the players' strengths and weaknesses. The transitions are smooth, and the conclusion ties everything together nicely.)
+- Coherence: 8

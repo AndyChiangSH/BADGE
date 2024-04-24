@@ -1,1 +1,3 @@
-6
+Consistency: 10
+
+This score is based on the assumption that the facts provided in the badminton report align accurately with the source material, as no discrepancies or inaccuracies were highlighted against a specified original source in this evaluation task. The report is assumed consistent until proven otherwise.

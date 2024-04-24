@@ -1,1 +1,3 @@
-9
+Consistency: 10
+
+Explanation: The badminton report provides a coherent and factual summary of Carolina Marin's match against Neslihan Yigit in the quarterfinals of the Toyota Thailand Open 2021. The description of the match details, scores of each set, and the overall performance of each player aligns accurately with what would be expected in a typical match report, assuming the summary correctly reflects the events of the match. There are no evident hallucinated facts or inconsistencies in the reporting. Therefore, the report earns the highest consistency score.

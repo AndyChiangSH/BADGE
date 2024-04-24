@@ -1,1 +1,3 @@
-8
+Consistency: 5
+
+Explanation: The badminton report claims that the match was tied at one set apiece moving into the third set; however, as described, Kento Momota won the first set, and also the second set directly following. This creates a factual inconsistency as it suggests there was a need for a third set under a regular best-of-three games format, which is standard in badminton tournaments like the Denmark Open. Given this significant factual error regarding the match progress and outcome, the report's consistency with the factual events it purports to summarize is compromised.

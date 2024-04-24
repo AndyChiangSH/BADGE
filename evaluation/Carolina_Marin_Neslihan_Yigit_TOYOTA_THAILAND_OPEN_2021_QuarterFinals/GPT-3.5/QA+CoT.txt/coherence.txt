@@ -1,9 +1,6 @@
+Coherence: 8
 
-1. Read for Structure and Organization: 8/10
-2. Sentence-Level Analysis: 
-   - Paragraph 1: 7/10
-   - Paragraph 2: 7/10
-   - Paragraph 3: 6/10
-3. Overall Coherence Assessment: 7/10
+Explanation:
+The badminton report maintains a commendable level of structure and organization. It clearly introduces the event, the players, and the outcomes of the matches in a logical sequence. The use of specific technical terminology and consistent detail across both sets helps in building a coherent body of information about the match. Each sentence contributes to the overall narrative, giving the reader actionable insights into how the game unfolded.
 
-Overall Coherence: 7/10
+However, the repetition of the phrase "returns to the net" and similar structural patterns regarding point losses slightly reduce the effectiveness of maintaining interest throughout the text, which could be perceived as redundant or overly technical without additional context or variation in phrasing. Moreover, the transitions between the descriptions of the sets could be smoother to enhance the narrative flow from one set to another, preventing any feelings of abruptness.

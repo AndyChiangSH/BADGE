@@ -1,6 +1,1 @@
-
-1. **Read for Structure and Organization**: The report has a clear structure with an introduction, main body, and conclusion. The information flows logically from the first set to the second set, and the overall narrative about the match is coherent. Score: 9
-2. **Sentence-Level Analysis**: The sentences are clear, concise, and relevant to the main topic of the match. Each sentence contributes meaningfully to the overall coherence of the report, with smooth transitions between ideas. Score: 8
-3. **Overall Coherence Assessment**: The report maintains a high level of coherence both structurally and at the sentence level. The information is presented in a well-organized manner, and the narrative of the match is easy to follow. Score: 9
-
-- Coherence Overall Score: 8.5
+Coherence: 9

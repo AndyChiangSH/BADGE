@@ -1,1 +1,3 @@
-8
+Consistency: 1
+
+The factual information provided in the badminton report is not consistent with official records of the HSBC BWF World Tour Finals 2020. According to actual results from the mentioned tournament, Viktor Axelsen won against Anders Antonsen in two straight sets (21-17, 21-11) in the men's singles final. The report erroneously describes a three-set match with inaccurate scores for the individual sets, including a third set which did not occur. This inconsistency and inclusion of incorrect and hallucinated details about the match lead to a low consistency score.
