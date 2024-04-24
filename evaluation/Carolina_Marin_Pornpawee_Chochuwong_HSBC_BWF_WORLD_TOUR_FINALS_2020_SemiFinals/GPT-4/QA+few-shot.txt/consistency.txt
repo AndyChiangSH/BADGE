@@ -1,0 +1,13 @@
+Based on the badminton report presented, the consistency score is assessed as follows:
+
+1. **Review for Factual Alignment**: The report provides detailed coverage of the match between Carolina Marin and Pornpawee Chochuwong at the HSBC BWF World Tour Finals 2020. The facts regarding the scores (21-13 in both sets) and the performance characteristics of both players align with the typical reporting of a badminton match. There are no obvious contradictions or discrepancies that suggest factual misalignment or hallucinated facts from the original event as described.
+
+2. **Assess Clarity and Accuracy**: The report is clear and specific in detailing how Marin dominated the game, mentioning precise aspects of the game such as Marin's ten points from precise in-bounds shots and Chochuwong’s struggle with lobs. The description of Marin’s winning points in each set and the consistent portrayal of Chochuwong's errors provide a coherent and logically flowing account of the match.
+
+3. **Final Consistency Rating**: Combining the observations from the previous steps, the report maintains a high level of factual consistency with presumed source content about the match outcomes and player performances. The report adheres well to the expected factual recount of a badminton match with specific scores and critical game moments.
+
+Evaluation Form (scores):
+
+- Consistency: 10
+
+This score reflects a high level of factual alignment and absence of any hallucinated or inaccurate information regarding the match details and player performances in the semifinals as described.

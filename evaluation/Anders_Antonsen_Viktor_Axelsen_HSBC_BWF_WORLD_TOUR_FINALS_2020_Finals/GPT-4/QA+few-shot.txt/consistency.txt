@@ -1,0 +1,9 @@
+Based on the given criteria and the examination of the report provided, a thorough evaluation of factual alignment was performed. There is an apparent inaccuracy in the report: it states that "Anders Antonsen emerged victorious against fellow Dane Viktor Axelsen in a riveting final" but also details how Viktor Axelsen won the third game. The structure of the report implies that Antonsen was the overall match winner even though the described game wins should lead to Axelsen being the victor (having won two out of three games).
+
+Since the report states that Antonsen won the title after a two-to-one game win, but then describes Axelsen winning two games to one, there is significant confusion and inconsistency. This contradiction significantly impacts the factual consistency of the report. Consequently, the report has hallucinated and fabricated outcomes, which violates the criteria that summaries should only contain statements entailed by the source document.
+
+Therefore, the report contains a critical factual inconsistency that cannot be overlooked. 
+
+Evaluation Form (scores ONLY):
+
+- Consistency: 3

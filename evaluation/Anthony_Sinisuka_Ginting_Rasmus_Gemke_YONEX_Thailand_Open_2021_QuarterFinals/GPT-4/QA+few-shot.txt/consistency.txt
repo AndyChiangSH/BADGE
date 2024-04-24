@@ -1,0 +1,12 @@
+**Consistency**: 3
+
+**Explanation**:
+The consistency score is low primarily because of major factual inaccuracies in the summary report compared to the possible general expectations based on standard badminton match scoring and rules. 
+
+1. **Improbable Scoreline**: The scoreline in the second set as reported (20-5) is highly unusual for high-level professional badminton matches, particularly between players at a quarterfinal of an international event like the YONEX Thailand Open. This either suggests an error in reporting or a fabricated score, which greatly affects the factual consistency of the report.
+
+2. **Match Result Confusion**: The report confusingly states that Ginting overcame Gemke, but later mentions that Gemke won the third set. It doesn't clearly confirm the overall match winner, which could easily lead to confusion regarding who actually won and advanced to the semifinals. This ambiguity impacts the factual alignment because clear, consistent reporting of the match result is essential in sports summaries.
+
+3. **Detailed Play-by-Play Discrepancies**: The specific play-by-play details listed (like the specific points from "rush tactics" and "return net" shots) are unusually specific and not typically detailed in standard match reports unless directly sourced from detailed match statistics which aren't available here. If these details are not accurately sourced, they may lead to inconsistencies in reporting.
+
+Overall, the report is fascinating and detailed but includes elements that seem implausible or inaccurately rendered, suggesting potential factual discrepancies, hence the low consistency score.

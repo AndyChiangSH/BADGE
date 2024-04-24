@@ -1,0 +1,13 @@
+To evaluate the consistency of the badminton report provided:
+
+1. **Review for Factual Alignment**: I examined the report and compared it against available records of the HSBC BWF World Tour Finals 2020. The report correctly identifies Viktor Axelsen as the winner. It also correctly identifies Anders Antonsen as the opponent, and the description of the match proceeding over three sets aligns with the format of matches at this level.
+
+2. **Assess Clarity and Accuracy**: The report clearly narrates the flow of the match, describing tactical shifts and key plays throughout the sets. Each set is described in a manner that is easy to understand and seems logically consistent, with descriptions that suit typical badminton match narratives (e.g., strategic lobs, powerful smashes, net errors).
+
+3. **Final Consistency Rating**: There is a significant discrepancy in the report – the scores for the sets are presented inaccurately. The given scores are [16-21, 17-21, 21-5], which implies that Anders Antonsen won the first two sets (since the lower score is typically listed first for each set). However, the narrative describes Viktor Axelsen as the winner, and winning matches generally require winning two out of three sets. Therefore, either the scores are listed incorrectly relative to the winner, or the narrative does not align with the scoreline. This affects the factual alignment and overall consistency of the report.
+
+Given this information and the critical nature of accurate scoring in a sports report:
+
+- Consistency: 4
+
+This score reflects the significant error with the match score which is crucial for factual alignment in a sports report, despite other parts of the report being factually aligned and well-communicated.

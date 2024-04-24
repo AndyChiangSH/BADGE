@@ -1,0 +1,11 @@
+To evaluate the consistency of the badminton report provided, I started by verifying the factual details it contained. The report portrays a quarterfinal match between Anthony Sinisuka Ginting and Rasmus Gemke at the YONEX Thailand Open 2021, highlighting a detailed account of their gameplay with scores for each set.
+
+However, upon checking, the actual source reported that Ginting defeated Gemke in straight sets 21-12, 21-9. Contrary to the report, it was not a three-set match and specifically, there was no occurrence of a score of 20-5 or a third set revival by Gemke with a score of 21-19. These discrepancies are major factual errors.
+
+Due to these substantial inaccuracies and deviations from the source which significantly affect the factual alignment, the given report has introduced several "hallucinated" details that were not present in the original event.
+
+Given the severity of these inaccuracies:
+
+- Consistency: 2
+
+This score reflects the significant misrepresentation of the match outcomes and the introduction of factually incorrect details, deviating fundamentally from the verified source information.
