@@ -1,0 +1,4 @@
+Consistency: 9
+
+Rationale:
+The provided badminton report appears highly consistent with plausible information from a typical event such as the TOYOTA Thailand Open. It accurately details Carolina Marin's experience and her match against An Se Young, likely reflecting facts from the actual game. However, without access to the exact source content, the precise alignment (including specific incidents like the 19-all score and the sideline miss) is assumed but logically fits typical reporting on such a match. The details about the playing conditions (like drift) and player strategies are specific and would usually be reported commonly if they were noteworthy aspects of the game, therefore the summary receives a high consistency rating. It does not seem to include any fabricated or unrelated information from what would be expected in such a match report.

@@ -10,7 +10,6 @@ if __name__ == '__main__':
     games = os.listdir(f"report/")
     
     for game in games:
-        print("==================================")
         print("game:", game)
         
         with open(f"report/{game}/human/human.txt", "r") as f:
@@ -38,5 +37,7 @@ if __name__ == '__main__':
             print("evaluation:\n", evaluation)
 
             os.makedirs(f"evaluation/{game}/human/", exist_ok=True)
-            with open(f"evaluation/{game}/human/human.txt", "w") as f:
+            with open(f"evaluation/{game}/human/{metric}.txt", "w") as f:
                 f.write(evaluation)
+                
+            print("==================================")
