@@ -1,2 +1,3 @@
-# IT4PSS
-IJCAI 2024 Workshop: IT4PSS
+# BADGE
+
+BADGE: BADminton report Generation and Evaluation with LLM
