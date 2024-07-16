@@ -10,6 +10,6 @@ Let's think step by step:
 4. Rewrite and improve the report
 
 Q&A:
-{Q&A}
+{QA}
 
 Report:

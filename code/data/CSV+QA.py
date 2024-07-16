@@ -18,7 +18,7 @@ if __name__ == '__main__':
     
     # Get list of filenames in the folder
     num_set = len(os.listdir(f"data/{game}/"))
-    os.makedirs(f"csv/{game}/", exist_ok=True)
+    os.makedirs(f"CSV/{game}/", exist_ok=True)
     os.makedirs(f"QA/{game}/", exist_ok=True)
     for set in range(1, num_set+1):
         filename = f"set{set}"
@@ -40,9 +40,9 @@ if __name__ == '__main__':
         translated_df_copy.replace(
             {'win_point_player': {"A": player_A, "B": player_B}}, inplace=True)
         
-        translated_df_copy.to_csv(f"csv/{game}/{filename}.csv", index=False)
+        translated_df_copy.to_csv(f"CSV/{game}/{filename}.csv", index=False)
         
-        with open(f"csv/{game}/{filename}.csv", "r") as f:
+        with open(f"CSV/{game}/{filename}.csv", "r") as f:
             csv = f.read()
         
         csv_output += f"\n\nSet {set}:\n{csv}"
@@ -61,5 +61,5 @@ if __name__ == '__main__':
     with open(f"QA/{game}/QA.txt", "w") as f:
         f.write(QA_output)
         
-    with open(f"csv/{game}/csv.txt", "w") as f:
+    with open(f"CSV/{game}/CSV.txt", "w") as f:
         f.write(csv_output)

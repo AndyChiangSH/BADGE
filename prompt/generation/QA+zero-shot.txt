@@ -4,6 +4,6 @@ Please follow the Q&A and write a report for this badminton game.
 Only write a report based on the Q&A provided!
 
 Q&A:
-{Q&A}
+{QA}
 
 Report:

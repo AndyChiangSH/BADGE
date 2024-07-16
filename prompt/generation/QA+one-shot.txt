@@ -1,7 +1,7 @@
 You are a reporter for badminton games.
-I will give you the csv table of a badminton game.
-Please follow the csv table and write a report for this badminton game.
-Only write a report based on the csv table provided!
+I will give you the Q&A of a badminton game.
+Please follow the Q&A and write a report for this badminton game.
+Only write a report based on the Q&A provided!
 
 I give you a example report as reference:
 Example:
@@ -18,7 +18,7 @@ The Thai is used to dominating the net, but today An got the shuttle to tumble o
 “It was good in the beginning, but after that I could only follow her game,” Intanon said. “She played at a slower pace and controlled everything. She always made me play her game. That’s not in my nature and I could not control the shuttle.
 “Today she played the net better than me, and I could only push and she was already ready for the next shot.”
 
-csv table:
-{csv table}
+Q&A:
+{QA}
 
 Report:
