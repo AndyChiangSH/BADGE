@@ -1,26 +1,26 @@
 win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
-A,wins by landing,rush,opponent wins by landing,1,0
-A,wins by landing,wrist smash,opponent wins by landing,2,0
-A,opponent goes out of bounds,rush,goes out of bounds,3,0
-A,wins by landing,rush,opponent wins by landing,5,1
-B,opponent goes out of bounds,smash,goes out of bounds,5,2
-A,opponent fails to clear the net,return net,fails to clear the net,7,2
-A,opponent goes out of bounds,push,goes out of bounds,8,2
-A,wins by landing,net shot,opponent wins by landing,9,2
-A,opponent goes out of bounds,push,goes out of bounds,10,2
-A,opponent goes out of bounds,smash,goes out of bounds,11,2
-A,opponent goes out of bounds,smash,goes out of bounds,12,2
-A,opponent hits the net,net shot,hits the net,13,2
-A,opponent goes out of bounds,push,goes out of bounds,14,2
-B,opponent hits the net,cross-court net shot,hits the net,14,3
-A,wins by landing,smash,opponent wins by landing,15,3
-A,opponent goes out of bounds,drive,goes out of bounds,16,3
-A,wins by landing,rush,opponent wins by landing,17,3
-B,opponent goes out of bounds,passive drop,goes out of bounds,17,4
-B,opponent hits the net,rush,hits the net,17,5
-B,wins by landing,lob,opponent wins by landing,17,9
-A,opponent fails to clear the net,return net,fails to clear the net,18,9
-A,opponent hits the net,wrist smash,hits the net,19,9
-B,opponent hits the net,smash,hits the net,19,10
-B,wins by landing,rush,opponent wins by landing,19,11
-A,wins by landing,return net,opponent wins by landing,21,11
+Kento MOMOTA,wins by landing,rush,opponent wins by landing,1,0
+Kento MOMOTA,wins by landing,wrist smash,opponent wins by landing,2,0
+Kento MOMOTA,opponent goes out of bounds,rush,goes out of bounds,3,0
+Kento MOMOTA,wins by landing,rush,opponent wins by landing,5,1
+Viktor AXELSEN,opponent goes out of bounds,smash,goes out of bounds,5,2
+Kento MOMOTA,opponent fails to clear the net,return net,fails to clear the net,7,2
+Kento MOMOTA,opponent goes out of bounds,push,goes out of bounds,8,2
+Kento MOMOTA,wins by landing,net shot,opponent wins by landing,9,2
+Kento MOMOTA,opponent goes out of bounds,push,goes out of bounds,10,2
+Kento MOMOTA,opponent goes out of bounds,smash,goes out of bounds,11,2
+Kento MOMOTA,opponent goes out of bounds,smash,goes out of bounds,12,2
+Kento MOMOTA,opponent hits the net,net shot,hits the net,13,2
+Kento MOMOTA,opponent goes out of bounds,push,goes out of bounds,14,2
+Viktor AXELSEN,opponent hits the net,cross-court net shot,hits the net,14,3
+Kento MOMOTA,wins by landing,smash,opponent wins by landing,15,3
+Kento MOMOTA,opponent goes out of bounds,drive,goes out of bounds,16,3
+Kento MOMOTA,wins by landing,rush,opponent wins by landing,17,3
+Viktor AXELSEN,opponent goes out of bounds,passive drop,goes out of bounds,17,4
+Viktor AXELSEN,opponent hits the net,rush,hits the net,17,5
+Viktor AXELSEN,wins by landing,lob,opponent wins by landing,17,9
+Kento MOMOTA,opponent fails to clear the net,return net,fails to clear the net,18,9
+Kento MOMOTA,opponent hits the net,wrist smash,hits the net,19,9
+Viktor AXELSEN,opponent hits the net,smash,hits the net,19,10
+Viktor AXELSEN,wins by landing,rush,opponent wins by landing,19,11
+Kento MOMOTA,wins by landing,return net,opponent wins by landing,21,11

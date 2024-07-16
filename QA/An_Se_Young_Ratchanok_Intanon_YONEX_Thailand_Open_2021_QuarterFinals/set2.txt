@@ -1,0 +1,17 @@
+
+Q1: Which player won the game? How many points did the winner get?
+A1: An Se Young won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Ratchanok Intanon lost the game with 12 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: An Se Young got 11 points because opponent hits the net.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Ratchanok Intanon lost 11 points because hits the net.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: An Se Young got 2 points by smash.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Ratchanok Intanon lose 5 points by cross-court net shot.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, An Se Young used cross-court net shot to overtake the lead at 3:2.
+Q8: How did the winner end the game?
+A8: An Se Young ends the game because opponent hits the net by net shot.

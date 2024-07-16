@@ -1,0 +1,17 @@
+
+Q1: Which player won the game? How many points did the winner get?
+A1: Kento MOMOTA won the game with 23 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Viktor AXELSEN lost the game with 22 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Kento MOMOTA got 6 points because opponent goes out of bounds.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Viktor AXELSEN lost 6 points because goes out of bounds.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Kento MOMOTA got 2 points by smash.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Viktor AXELSEN lose 3 points by net shot.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Kento MOMOTA used push to overtake the lead at 9:8.
+Q8: How did the winner end the game?
+A8: Kento MOMOTA ends the game because wins by landing by smash.

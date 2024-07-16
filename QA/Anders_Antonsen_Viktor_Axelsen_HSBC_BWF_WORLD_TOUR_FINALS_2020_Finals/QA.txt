@@ -20,24 +20,6 @@ A8: Anders Antonsen ends the game because wins by landing by wrist smash.
 
 Set 2:
 Q1: Which player won the game? How many points did the winner get?
-A1: Anders Antonsen won the game with 21 points.
-Q2: Which player lost the game? How many points did the loser get?
-A2: Viktor Axelsen lost the game with 17 points.
-Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
-A3: Anders Antonsen got 8 points because wins by landing.
-Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
-A4: Viktor Axelsen lost 8 points because opponent wins by landing.
-Q5: Which ball type did the winner get the most points with? How many points did the player get?
-A5: Anders Antonsen got 4 points by smash.
-Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
-A6: Viktor Axelsen lose 4 points by return net.
-Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
-A7: Yes, Anders Antonsen used rush to overtake the lead at 4:3.
-Q8: How did the winner end the game?
-A8: Anders Antonsen ends the game because opponent goes out of bounds by drive.
-
-Set 3:
-Q1: Which player won the game? How many points did the winner get?
 A1: Viktor Axelsen won the game with 21 points.
 Q2: Which player lost the game? How many points did the loser get?
 A2: Anders Antonsen lost the game with 5 points.
@@ -53,3 +35,21 @@ Q7: Did the winner come from behind and win the game? If yes, which ball type di
 A7: No, Viktor Axelsen did not come from behind.
 Q8: How did the winner end the game?
 A8: Viktor Axelsen ends the game because opponent goes out of bounds by passive drop.
+
+Set 3:
+Q1: Which player won the game? How many points did the winner get?
+A1: Anders Antonsen won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Viktor Axelsen lost the game with 17 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Anders Antonsen got 8 points because wins by landing.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Viktor Axelsen lost 8 points because opponent wins by landing.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Anders Antonsen got 4 points by smash.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Viktor Axelsen lose 4 points by return net.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Anders Antonsen used rush to overtake the lead at 4:3.
+Q8: How did the winner end the game?
+A8: Anders Antonsen ends the game because opponent goes out of bounds by drive.

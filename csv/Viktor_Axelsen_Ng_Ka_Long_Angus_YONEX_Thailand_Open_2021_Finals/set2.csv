@@ -1,36 +1,36 @@
 win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
-B,wins by landing,drive,opponent wins by landing,0,1
-B,opponent hits the net,return net,hits the net,0,2
-B,wins by landing,rush,opponent wins by landing,0,3
-A,opponent hits the net,drop,hits the net,1,3
-A,opponent goes out of bounds,drop,goes out of bounds,2,3
-A,opponent landing judgment error,smash,landing judgment error,3,3
-A,opponent goes out of bounds,lob,goes out of bounds,4,3
-B,wins by landing,rush,opponent wins by landing,4,4
-A,opponent goes out of bounds,clear,goes out of bounds,5,4
-A,opponent fails to clear the net,rush,fails to clear the net,6,4
-A,opponent goes out of bounds,smash,goes out of bounds,7,4
-A,opponent goes out of bounds,lob,goes out of bounds,8,4
-B,wins by landing,smash,opponent wins by landing,8,5
-B,wins by landing,rush,opponent wins by landing,8,6
-B,wins by landing,smash,opponent wins by landing,8,7
-A,opponent hits the net,net shot,hits the net,9,7
-B,wins by landing,drop,opponent wins by landing,9,8
-A,opponent fails to clear the net,return net,fails to clear the net,10,8
-B,opponent goes out of bounds,smash,goes out of bounds,10,9
-B,opponent hits the net,net shot,hits the net,10,10
-A,opponent fails to clear the net,return net,fails to clear the net,11,10
-A,opponent goes out of bounds,drop,goes out of bounds,12,10
-A,opponent hits the net,drop,hits the net,13,10
-A,opponent goes out of bounds,clear,goes out of bounds,14,10
-A,opponent fails to clear the net,return net,fails to clear the net,15,10
-B,opponent goes out of bounds,smash,goes out of bounds,15,11
-A,wins by landing,smash,opponent wins by landing,16,11
-B,opponent landing judgment error,lob,landing judgment error,16,12
-B,opponent goes out of bounds,lob,goes out of bounds,16,13
-A,opponent fails to clear the net,return net,fails to clear the net,17,13
-B,opponent fails to clear the net,return net,fails to clear the net,17,14
-A,opponent goes out of bounds,clear,goes out of bounds,18,14
-A,opponent hits the net,net shot,hits the net,19,14
-A,opponent goes out of bounds,drop,goes out of bounds,20,14
-A,opponent fails to clear the net,net shot,fails to clear the net,21,14
+Ng Ka Long Angus,wins by landing,drive,opponent wins by landing,0,1
+Ng Ka Long Angus,opponent hits the net,return net,hits the net,0,2
+Ng Ka Long Angus,wins by landing,rush,opponent wins by landing,0,3
+Viktor Axelsen,opponent hits the net,drop,hits the net,1,3
+Viktor Axelsen,opponent goes out of bounds,drop,goes out of bounds,2,3
+Viktor Axelsen,opponent landing judgment error,smash,landing judgment error,3,3
+Viktor Axelsen,opponent goes out of bounds,lob,goes out of bounds,4,3
+Ng Ka Long Angus,wins by landing,rush,opponent wins by landing,4,4
+Viktor Axelsen,opponent goes out of bounds,clear,goes out of bounds,5,4
+Viktor Axelsen,opponent fails to clear the net,rush,fails to clear the net,6,4
+Viktor Axelsen,opponent goes out of bounds,smash,goes out of bounds,7,4
+Viktor Axelsen,opponent goes out of bounds,lob,goes out of bounds,8,4
+Ng Ka Long Angus,wins by landing,smash,opponent wins by landing,8,5
+Ng Ka Long Angus,wins by landing,rush,opponent wins by landing,8,6
+Ng Ka Long Angus,wins by landing,smash,opponent wins by landing,8,7
+Viktor Axelsen,opponent hits the net,net shot,hits the net,9,7
+Ng Ka Long Angus,wins by landing,drop,opponent wins by landing,9,8
+Viktor Axelsen,opponent fails to clear the net,return net,fails to clear the net,10,8
+Ng Ka Long Angus,opponent goes out of bounds,smash,goes out of bounds,10,9
+Ng Ka Long Angus,opponent hits the net,net shot,hits the net,10,10
+Viktor Axelsen,opponent fails to clear the net,return net,fails to clear the net,11,10
+Viktor Axelsen,opponent goes out of bounds,drop,goes out of bounds,12,10
+Viktor Axelsen,opponent hits the net,drop,hits the net,13,10
+Viktor Axelsen,opponent goes out of bounds,clear,goes out of bounds,14,10
+Viktor Axelsen,opponent fails to clear the net,return net,fails to clear the net,15,10
+Ng Ka Long Angus,opponent goes out of bounds,smash,goes out of bounds,15,11
+Viktor Axelsen,wins by landing,smash,opponent wins by landing,16,11
+Ng Ka Long Angus,opponent landing judgment error,lob,landing judgment error,16,12
+Ng Ka Long Angus,opponent goes out of bounds,lob,goes out of bounds,16,13
+Viktor Axelsen,opponent fails to clear the net,return net,fails to clear the net,17,13
+Ng Ka Long Angus,opponent fails to clear the net,return net,fails to clear the net,17,14
+Viktor Axelsen,opponent goes out of bounds,clear,goes out of bounds,18,14
+Viktor Axelsen,opponent hits the net,net shot,hits the net,19,14
+Viktor Axelsen,opponent goes out of bounds,drop,goes out of bounds,20,14
+Viktor Axelsen,opponent fails to clear the net,net shot,fails to clear the net,21,14

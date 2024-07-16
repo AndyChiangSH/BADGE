@@ -1,0 +1,17 @@
+
+Q1: Which player won the game? How many points did the winner get?
+A1: Carolina Marin won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Pornpawee Chochuwong lost the game with 13 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Carolina Marin got 6 points because opponent hits the net.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Pornpawee Chochuwong lost 6 points because hits the net.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Carolina Marin got 2 points by smash.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Pornpawee Chochuwong lose 6 points by net shot.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: No, Carolina Marin did not come from behind.
+Q8: How did the winner end the game?
+A8: Carolina Marin ends the game because opponent fails to clear the net by net shot.

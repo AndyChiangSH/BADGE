@@ -4,10 +4,14 @@ from pipeline import preprocess, translate, generate_answer
 
 
 if __name__ == '__main__':
-    game = "Kento_MOMOTA_CHOU_Tien_Chen_Denmark_Open_2018_Finals"
-    player_A = "Kento MOMOTA"
-    player_B = "CHOU Tien Chen"
-    competition = "Denmark Open 2018 Finals"
+    game = "Viktor_Axelsen_Ng_Ka_Long_Angus_YONEX_Thailand_Open_2021_Finals"
+    player_A = "Viktor_Axelsen"
+    player_B = "Ng_Ka_Long_Angus"
+    competition = "YONEX_Thailand_Open_2021_Finals"
+    
+    player_A = player_A.replace("_", " ")
+    player_B = player_B.replace("_", " ")
+    competition = competition.replace("_", " ")
     
     QA_output = f"{competition}: {player_A} v.s. {player_B}"
     csv_output = f"{competition}: {player_A} v.s. {player_B}"
@@ -46,6 +50,9 @@ if __name__ == '__main__':
         print("> Generate answer...")
         answers = generate_answer(translated_df, player_A, player_B)
         # print("answers:", answers)
+        
+        with open(f"QA/{game}/{filename}.txt", "w") as f:
+            f.write(answers)
         
         QA_output += f"\n\nSet {set}:{answers}"
 

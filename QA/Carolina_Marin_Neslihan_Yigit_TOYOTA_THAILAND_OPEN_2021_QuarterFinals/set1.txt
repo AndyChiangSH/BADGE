@@ -1,0 +1,17 @@
+
+Q1: Which player won the game? How many points did the winner get?
+A1: Carolina Marin won the game with 21 points.
+Q2: Which player lost the game? How many points did the loser get?
+A2: Neslihan Yigit lost the game with 6 points.
+Q3: When the winner won the game, which type of win reason showed up most frequently, and how many times did it show up?
+A3: Carolina Marin got 11 points because opponent goes out of bounds.
+Q4: When the loser lost the game, which type of lose reason showed up most frequently, and how many times did it show up?
+A4: Neslihan Yigit lost 11 points because goes out of bounds.
+Q5: Which ball type did the winner get the most points with? How many points did the player get?
+A5: Carolina Marin got 1 points by clear.
+Q6: Which ball type did the loser lose the most points with? How many points did the player lose?
+A6: Neslihan Yigit lose 4 points by return net.
+Q7: Did the winner come from behind and win the game? If yes, which ball type did he use to overtake the lead? And what were the scores at that time?
+A7: Yes, Carolina Marin used lob to overtake the lead at 2:1.
+Q8: How did the winner end the game?
+A8: Carolina Marin ends the game because opponent hits the net by return net.

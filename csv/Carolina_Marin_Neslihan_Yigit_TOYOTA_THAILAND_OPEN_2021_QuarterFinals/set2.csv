@@ -1,37 +1,37 @@
 win_point_player,win_reason,ball_types,lose_reason,roundscore_A,roundscore_B
-A,wins by landing,return net,opponent wins by landing,1,0
-A,opponent hits the net,return net,hits the net,2,0
-A,wins by landing,wrist smash,opponent wins by landing,3,0
-B,opponent hits the net,passive drop,hits the net,3,1
-B,opponent goes out of bounds,smash,goes out of bounds,3,2
-A,wins by landing,smash,opponent wins by landing,4,2
-A,opponent hits the net,drop,hits the net,5,2
-A,opponent fails to clear the net,net shot,fails to clear the net,6,2
-B,wins by landing,cross-court net shot,opponent wins by landing,6,3
-B,opponent goes out of bounds,push,goes out of bounds,6,4
-B,wins by landing,drop,opponent wins by landing,6,5
-A,opponent goes out of bounds,return net,goes out of bounds,7,5
-B,opponent goes out of bounds,drop,goes out of bounds,7,6
-B,opponent hits the net,drop,hits the net,7,7
-B,opponent goes out of bounds,push,goes out of bounds,7,8
-B,opponent hits the net,smash,hits the net,7,9
-B,opponent goes out of bounds,rush,goes out of bounds,7,10
-A,opponent hits the net,passive drop,hits the net,8,10
-B,opponent hits the net,drop,hits the net,8,11
-A,wins by landing,smash,opponent wins by landing,9,11
-A,opponent goes out of bounds,push,goes out of bounds,10,11
-A,opponent hits the net,smash,hits the net,11,11
-A,opponent hits the net,return net,hits the net,12,11
-B,opponent hits the net,drop,hits the net,12,12
-A,opponent goes out of bounds,lob,goes out of bounds,13,12
-B,opponent hits the net,net shot,hits the net,13,13
-A,wins by landing,rush,opponent wins by landing,14,13
-A,wins by landing,rush,opponent wins by landing,15,13
-A,opponent hits the net,push,hits the net,16,13
-A,opponent hits the net,return net,hits the net,17,13
-B,wins by landing,smash,opponent wins by landing,17,14
-A,opponent hits the net,net shot,hits the net,18,14
-A,wins by landing,smash,opponent wins by landing,19,14
-B,wins by landing,cross-court net shot,opponent wins by landing,19,15
-A,wins by landing,smash,opponent wins by landing,20,15
-A,opponent fails to clear the net,passive drop,fails to clear the net,21,15
+Carolina Marin,wins by landing,return net,opponent wins by landing,1,0
+Carolina Marin,opponent hits the net,return net,hits the net,2,0
+Carolina Marin,wins by landing,wrist smash,opponent wins by landing,3,0
+Neslihan Yigit,opponent hits the net,passive drop,hits the net,3,1
+Neslihan Yigit,opponent goes out of bounds,smash,goes out of bounds,3,2
+Carolina Marin,wins by landing,smash,opponent wins by landing,4,2
+Carolina Marin,opponent hits the net,drop,hits the net,5,2
+Carolina Marin,opponent fails to clear the net,net shot,fails to clear the net,6,2
+Neslihan Yigit,wins by landing,cross-court net shot,opponent wins by landing,6,3
+Neslihan Yigit,opponent goes out of bounds,push,goes out of bounds,6,4
+Neslihan Yigit,wins by landing,drop,opponent wins by landing,6,5
+Carolina Marin,opponent goes out of bounds,return net,goes out of bounds,7,5
+Neslihan Yigit,opponent goes out of bounds,drop,goes out of bounds,7,6
+Neslihan Yigit,opponent hits the net,drop,hits the net,7,7
+Neslihan Yigit,opponent goes out of bounds,push,goes out of bounds,7,8
+Neslihan Yigit,opponent hits the net,smash,hits the net,7,9
+Neslihan Yigit,opponent goes out of bounds,rush,goes out of bounds,7,10
+Carolina Marin,opponent hits the net,passive drop,hits the net,8,10
+Neslihan Yigit,opponent hits the net,drop,hits the net,8,11
+Carolina Marin,wins by landing,smash,opponent wins by landing,9,11
+Carolina Marin,opponent goes out of bounds,push,goes out of bounds,10,11
+Carolina Marin,opponent hits the net,smash,hits the net,11,11
+Carolina Marin,opponent hits the net,return net,hits the net,12,11
+Neslihan Yigit,opponent hits the net,drop,hits the net,12,12
+Carolina Marin,opponent goes out of bounds,lob,goes out of bounds,13,12
+Neslihan Yigit,opponent hits the net,net shot,hits the net,13,13
+Carolina Marin,wins by landing,rush,opponent wins by landing,14,13
+Carolina Marin,wins by landing,rush,opponent wins by landing,15,13
+Carolina Marin,opponent hits the net,push,hits the net,16,13
+Carolina Marin,opponent hits the net,return net,hits the net,17,13
+Neslihan Yigit,wins by landing,smash,opponent wins by landing,17,14
+Carolina Marin,opponent hits the net,net shot,hits the net,18,14
+Carolina Marin,wins by landing,smash,opponent wins by landing,19,14
+Neslihan Yigit,wins by landing,cross-court net shot,opponent wins by landing,19,15
+Carolina Marin,wins by landing,smash,opponent wins by landing,20,15
+Carolina Marin,opponent fails to clear the net,passive drop,fails to clear the net,21,15
