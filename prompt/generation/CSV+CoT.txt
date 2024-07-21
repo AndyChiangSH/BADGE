@@ -9,7 +9,7 @@ Let's think step by step:
 3. Check the accuracy, wonderfulness, coherence, consistency and fluency of your report.
 4. Rewrite and improve the report
 
-csv table:
+CSV table:
 {CSV}
 
 Report:

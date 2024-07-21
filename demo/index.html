@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BADGE</title>
+    <link rel="icon" href="image/favicon_io/favicon.ico" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -11,29 +12,29 @@
 <body>
     <div class="container">
         <div class="my-5">
-            <h1 class="text-center">BADGE: BADminton report Generation and Evaluation with LLM</h1>
-            <p class="text-center">This demo website showcases our paper, "BADGE: BADminton report Generation and Evaluation with LLM," presented at the
-            IJCAI 2024 Workshop IT4PSS.</p>
+            <h1 class="text-center">🎖 BADGE: BADminton report Generation and Evaluation with LLM</h1>
+            <p class="text-center">This demo website showcases our paper, "<a href="https://arxiv.org/abs/2406.18116" target="_blank">BADGE: BADminton report Generation and Evaluation with LLM</a>," presented at the
+            <a href="https://wasn.csie.ncu.edu.tw/workshop/IT4PSS2024.html" target="_blank">IJCAI 2024 Workshop IT4PSS</a>.</p>
         </div>
-        <hr class="my-5">
         <div id="data" class="my-5">
+            <hr class="my-5">
             <h5>Data</h5>
             <div class="my-3">
                 <label for="game" class="form-label">Game</label>
-                <select id="game" class="form-select" aria-label="game">
+                <select id="game" class="form-select data_select" aria-label="game">
                     <option value="Kento_MOMOTA_CHOU_Tien_Chen_Denmark_Open_2018_Finals" selected>Denmark Open 2018 Finals: Kento MOMOTA v.s. CHOU Tien Chen</option>
                 </select>
             </div>
             <div class="my-3">
                 <label for="input_data_type" class="form-label">Input Data Type</label>
-                <select id="input_data_type" class="form-select" aria-label="input_data_type">
+                <select id="input_data_type" class="form-select data_select" aria-label="input_data_type">
                     <option value="CSV" selected>CSV</option>
                     <option value="QA">QA</option>
                 </select>
             </div>
             <div class="my-3">
                 <label for="in_context_learning" class="form-label">In-Context Learning</label>
-                <select id="in_context_learning" class="form-select" aria-label="in_context_learning">
+                <select id="in_context_learning" class="form-select data_select" aria-label="in_context_learning">
                     <option value="zero-shot" selected>Zero-shot</option>
                     <option value="one-shot">One-shot</option>
                     <option value="few-shot">Few-shot</option>
@@ -42,23 +43,23 @@
             </div>
             <div class="my-3">
                 <label for="large_language_models" class="form-label">Large Language Models</label>
-                <select id="large_language_models" class="form-select" aria-label="large_language_models">
+                <select id="large_language_models" class="form-select data_select" aria-label="large_language_models">
                     <option value="GPT-3.5" selected>GPT-3.5</option>
                     <option value="GPT-4">GPT-4</option>
                 </select>
             </div>
             <div class="my-3">
-                <div class="accordion" id="accordion_prompt_1">
+                <div class="accordion" id="accordion_generate_prompt">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#prompt_1"
-                                aria-expanded="true" aria-controls="prompt_1">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#generate_prompt"
+                                aria-expanded="true" aria-controls="generate_prompt">
                                 Prompt
                             </button>
                         </h2>
-                        <div id="prompt_1" class="accordion-collapse collapse" data-bs-parent="#accordion_prompt_1">
+                        <div id="generate_prompt" class="accordion-collapse collapse" data-bs-parent="#accordion_generate_prompt">
                             <div class="accordion-body">
-                                <p id="prompt_1_text">...</p>
+                                <pre id="generate_prompt_text">...</pre>
                             </div>
                         </div>
                     </div>
@@ -66,49 +67,52 @@
             </div>
             <div class="my-3 d-grid">
                 <button id="generate" class="btn btn-success" type="button">Generate</button>
+                <div id="generating" class="text-center">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
             </div>
         </div>
-        <hr class="my-5">
         <div id="report" class="my-5">
+            <hr class="my-5">
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
                         <h5 class="card-title">Report</h5>
                         <div class="d-flex">
-                            <button id="copy-to-clipboard" class="btn btn-secondary me-2">
+                            <button id="copy_report" class="btn btn-secondary me-2">
                                 <i class="bi bi-clipboard"></i>
                             </button>
-                            <a id="download-txt" class="btn btn-secondary">
+                            <a id="download_report" class="btn btn-secondary">
                                 <i class="bi bi-download"></i>
                             </a>
                         </div>
                     </div>
-                    <p id="report_text" class="card-text">
-                        ...
-                    </p>
+                    <pre id="report_text" class="card-text">...</pre>
                 </div>
             </div>
             <div class="my-3">
                 <label for="evaluation_criteria" class="form-label">Evaluation Criteria</label>
-                <select id="evaluation_criteria" class="form-select" aria-label="evaluation_criteria">
-                    <option value="Coherence" selected>Coherence</option>
-                    <option value="Consistency">Consistency</option>
-                    <option value="Excitement">Excitement</option>
-                    <option value="Fluency">Fluency</option>
+                <select id="evaluation_criteria" class="form-select report_select" aria-label="evaluation_criteria">
+                    <option value="coherence" selected>Coherence</option>
+                    <option value="consistency">Consistency</option>
+                    <option value="excitement">Excitement</option>
+                    <option value="fluency">Fluency</option>
                 </select>
             </div>
             <div class="my-3">
-                <div class="accordion" id="accordion_prompt_2">
+                <div class="accordion" id="accordion_evaluate_prompt">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#prompt_2"
-                                aria-expanded="true" aria-controls="prompt_2">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#evaluate_prompt"
+                                aria-expanded="true" aria-controls="evaluate_prompt">
                                 Prompt
                             </button>
                         </h2>
-                        <div id="prompt_2" class="accordion-collapse collapse" data-bs-parent="#accordion_prompt_2">
+                        <div id="evaluate_prompt" class="accordion-collapse collapse" data-bs-parent="#accordion_evaluate_prompt">
                             <div class="accordion-body">
-                                <p id="prompt_2_text">...</p>
+                                <pre id="evaluate_prompt_text">...</pre>
                             </div>
                         </div>
                     </div>
@@ -116,33 +120,52 @@
             </div>
             <div class="my-3 d-grid">
                 <button id="evaluate" class="btn btn-primary" type="button">Evaluate</button>
+                <div id="evaluating" class="text-center">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
             </div>
         </div>
-        <hr class="my-5">
         <div id="score" class="my-5">
+            <hr class="my-5">
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
                         <h5 class="card-title">Score</h5>
                         <div class="d-flex">
-                            <button id="copy-to-clipboard" class="btn btn-secondary me-2">
+                            <button id="copy_score" class="btn btn-secondary me-2">
                                 <i class="bi bi-clipboard"></i>
                             </button>
-                            <a id="download-txt" class="btn btn-secondary">
+                            <a id="download_score" class="btn btn-secondary">
                                 <i class="bi bi-download"></i>
                             </a>
                         </div>
                     </div>
-                    <p id="score_text" class="card-text">
-                        ...
-                    </p>
+                    <pre id="score_text" class="card-text">...</pre>
                 </div>
             </div>
+        </div>
+        <div id="footer" class="my-5 text-center">
+            <hr class="my-5">
+            <div class="d-flex justify-content-center my-2">
+                <a class="mx-2" href="https://github.com/AndyChiangSH/BADGE" target="_blank">
+                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AndyChiangSH/BADGE?style=social">
+                </a>
+                <a class="mx-2" href="https://github.com/AndyChiangSH/BADGE" target="_blank">
+                    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndyChiangSH%2FBADGE%2F&count_bg=%23FFBB00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%2F+Total&edge_flat=false" />
+                </a>
+            </div>
+            <small class="text-muted">Last update: 2024/07/21</small><br>
+            <small class="text-muted">Copyright © 2024 <a href="https://andychiangsh.github.io/AndyChiangSH/" target="_blank">Andy Chiang</a></small>
         </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 </body>
 </html>
